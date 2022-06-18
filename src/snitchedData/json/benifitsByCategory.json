@@ -1,0 +1,2328 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Кафе и Бары",
+            "order": 0,
+            "benefits_count": 43,
+            "benefits": [
+                {
+                    "id": 339,
+                    "title": "Кафе \"Лисья Нора\"",
+                    "description": "<p>Ресторан &laquo;Лисья нора&raquo; &mdash; это уютный ресторан-клуб, за окнами которого красивое Слепянское водохранилище. Здесь большая и ухоженная территория, широкий выбор блюд, гостеприимный персонал и демократичные цены. Это хорошее место как для обычного ужина, так и для проведения масштабного торжественного мероприятия.</p>",
+                    "sale": "5%-20%",
+                    "sale_conditions": "<p>Обеденное меню 5%</p><p>Основное меню 20%</p>",
+                    "website_url": null,
+                    "address": "улица Калиновского 32",
+                    "longitude": 53.941596,
+                    "latitude": 27.640937,
+                    "instagram_url": "https://www.instagram.com/lisya_nora_minsk/",
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 1,
+                            "title": "Кафе и Бары",
+                            "order": 0,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 487,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/WCx5wHs1LzfngV32.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 338,
+                    "title": "BBJ Grill&Bar",
+                    "description": "<p>Ресторан Американской кухни</p>",
+                    "sale": "10%-15%",
+                    "sale_conditions": "<p>Скидка на основное меню 15%</p><p>Скидка на обеденное меню 10%</p><p>Скидка не распространяется на акции, алкоголь и спецпредложения</p><p>Условия предоставления (перед заказом, в момент или перед расчётом) сотрудник показывает пропуск с лого и ланьярдом или активацию в приложении.</p>",
+                    "website_url": "https://bbj.by/",
+                    "address": "Братская улица, 6А",
+                    "longitude": 53.870601,
+                    "latitude": 27.551438,
+                    "instagram_url": "https://www.instagram.com/bbj.grill.bar/",
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 1,
+                            "title": "Кафе и Бары",
+                            "order": 0,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 486,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/kJQBHQZ9EMp6jBm7.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 337,
+                    "title": "BBJ Burger&Bar",
+                    "description": "<p>Американский Бургер&amp;Бар</p>",
+                    "sale": "10%-15%",
+                    "sale_conditions": "<p>Скидка на основное меню 15%</p><p>Скидка на обеденное меню 10%</p><p>Скидка не распространяется на акции, алкоголь и спецпредложения</p><p>Условия предоставления (перед заказом, в момент или перед расчётом) сотрудник показывает пропуск с лого и ланьярдом или активацию в приложении.</p>",
+                    "website_url": "https://bbj.by/",
+                    "address": "улица Гурского, 43А",
+                    "longitude": 53.877401,
+                    "latitude": 27.49594,
+                    "instagram_url": "https://www.instagram.com/bbj.bar/",
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 1,
+                            "title": "Кафе и Бары",
+                            "order": 0,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 485,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/hLhvBBzghsGb5n2o.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 336,
+                    "title": "BierKeller",
+                    "description": "<p>ПИВНОЙ ПОГРЕБОК &laquo;BIERKELLER&raquo;</p><p>Уютный гостеприимный уголок Германии в тихом центре Минска</p><p>БирКеллер порадует Вас традиционными деликатесами: от сырного ассорти и мясной тарелки до паштетов и смальцев. В меню горячих блюд много классической для Германии свинины: и томленная в пиве свиная грудка, и шницели, и, конечно же, рулька &laquo;Швайнхаксе&raquo;, с изумительной хрустящей корочкой!</p><p>В нашем погребке Вас всегда гостеприимно встретит девушка официантка в традиционном баварском платье &laquo;дирндл&raquo;, как и подобает настоящей хозяйке немецкого погребка. Именно здесь под задорные немецкие мотивы и йодльское тирольское пение все гости весело скачут, отмечая знаменитый немецкий праздник - мюнхенский фестиваль Октоберфест! &nbsp;</p><p>А если Вам захотелось взять с собой чуточку Германии, Вы всегда можете приобрести пивную атрибутику на память из сувенирного шкафа BierKeller!</p>",
+                    "sale": "20%",
+                    "sale_conditions": "<p>Скидка 20% на основное меню</p><p>*Скидка не распространяется на блюда обеденного меню, фестивальных и акционных предложений, алкогольные напитки, сигареты, сувенирную продукцию и не суммируется с другими скидками, действующими в ресторане.</p><p>**Согласно договорённости скидка действует на компанию не более 10 человек.</p>",
+                    "website_url": "http://www.bier-keller.by/",
+                    "address": "Войсковый переулок, 12",
+                    "longitude": 53.907069,
+                    "latitude": 27.5803,
+                    "instagram_url": "https://www.instagram.com/bierkeller_minsk/",
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 1,
+                            "title": "Кафе и Бары",
+                            "order": 0,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 484,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/bjuVpHJtGuAVerod.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 335,
+                    "title": "Кофейня coffeewanted.by",
+                    "description": "<p>Мобильная кофейня &laquo;Coffee Wanted&raquo; &ndash; это кофейня на колёсах, которая эксплуатируется в формате кейтеринга и может приехать в любую точку нашей страны, предложив широкий ассортимент кофе, чая и холодных напитков.</p><p>Размер занимаемой торговой площади 2*2 м без посадочных мест. Мобильная кофейня работает автономно. Ассортимент из нескольких видов горячих напитков, приготовление в соответствии с классическими рецептами, опытный бариста &ndash; наш главный комплект. Одним из наших плюсов является то, что мы можем присутствовать на Вашем мероприятии в формате стационарной точки, где оборудованием торговой площади будет стойка.</p><p>Мы можем работать в любое время суток и в любом регионе нашей страны. На нашем счету несколько сотен отработанных мероприятий и больше тысячи преодолённых километров.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>10% на весь ассортимент (кроме алкоголя) для сотрудников Mediacube при предъявлении активации в приложении mc benefits</p>",
+                    "website_url": "http://coffee-wanted.by/",
+                    "address": "ул. Кальварийская 21; ул. Притыцкого 29",
+                    "longitude": 53.906241,
+                    "latitude": 27.527327,
+                    "instagram_url": "https://www.instagram.com/coffeewanted.by/",
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 1,
+                            "title": "Кафе и Бары",
+                            "order": 0,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 483,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/DLNge8r27726ZH3v.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Доставки и Магазины",
+            "order": 1,
+            "benefits_count": 19,
+            "benefits": [
+                {
+                    "id": 342,
+                    "title": "Питание DarkChef",
+                    "description": "<p>Бесплатная доставка правильного питания в Минске. Представлены рационы питания под любые цели, каждый день новое меню.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>При заказе использовать код из приложения.</p>",
+                    "website_url": null,
+                    "address": "г. Минск",
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/darkchef.minsk/",
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 12,
+                            "title": "Доставки и Магазины",
+                            "order": 1,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 490,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/lHkUR0NpjrATGDtA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 320,
+                    "title": "SPARKLE_CANDLEBOX",
+                    "description": "<p>Экологичные свечи из 100% соевого воска с волшебными ароматами и потрескивающим деревянным фитильком.<br>Также в нашем инстаграме можно найти свечи в форме женского и мужского тела, Будды и другие уникальные фигурки.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p><span style=\"color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Для получения 10% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа в direct instagram&nbsp;<a href=\"https://www.instagram.com/sparkle_candlebox/\">SPARKLE_CANDLEBOX</a></span></p>",
+                    "website_url": null,
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/sparkle_candlebox/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 12,
+                            "title": "Доставки и Магазины",
+                            "order": 1,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 467,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/eMjcZWXoIKFbHKoM.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 317,
+                    "title": "PASTA DELI delivery",
+                    "description": null,
+                    "sale": "20%",
+                    "sale_conditions": "<p><strong>Скидка 20% на пасту, пиццу и пироги.</strong><br><br><span style=\"color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Для получения скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и сообщить полученный промокод при заказе по телефону.</span><br><span style=\"color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Для получения скидки на сайте укажите полученный промокод в примечании к заказу в момент оформления заказа.</span>&nbsp;</p>",
+                    "website_url": "https://www.pastadeli.by/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/pastadeliby/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 12,
+                            "title": "Доставки и Магазины",
+                            "order": 1,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 464,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/zGWhm8KveCdACXmk.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 316,
+                    "title": "CANDLES HARMONY",
+                    "description": "<p>100% Соевый Воск<br>Экологически чистые Свечи<br>Деревянный и хлопковый фитили<br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\">Ручная работа</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и полученный промокод использовать при оформлении заказа в <a href=\"https://www.instagram.com/candles_harmony/\">CANDLES HARMONY</a></p>",
+                    "website_url": null,
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/candles_harmony/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 12,
+                            "title": "Доставки и Магазины",
+                            "order": 1,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 463,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/bUy1DX8ILJ4EUZ6b.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 315,
+                    "title": "LAPA WARM квест по языкам любви | свечи",
+                    "description": "<p><strong>Квест-игра для пар &laquo;5 языков любви&raquo;</strong><br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\">Игра, которая покорила многих<br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\">Это полноценный сюрприз для двоих.<br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\"><strong>Внутри:</strong> 6 подарков и 5 совместных заданий, игра упаковывает так, чтобы можно было сразу дарить<br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\">Игра рассчитана на пары, которые хотят разнообразить отношения, узнать как сделать вторую половинку ещё счастливее и просто здорово повести время.<br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\"><strong>Суть игры:</strong> открывать конверты/свертки по нумерации и выполнять задания, вместе проводить время и открывать подарки</p><p><strong>Свечи</strong><br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\">Формы выполнены из гипса, используется натуральный соевый воск. Деревянный или хлопковый фитиль на выбор, аромат и декор в подарок</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и полученный промокод использовать при оформлении заказа в <a href=\"https://www.instagram.com/lapa_warm.by/?utm_medium=copy_link\">LAPA WARM</a></p>",
+                    "website_url": "https://linkrr.ru/lapawarm.by",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/lapa_warm.by/?utm_medium=copy_link",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 12,
+                            "title": "Доставки и Магазины",
+                            "order": 1,
+                            "benefits_count": null
+                        },
+                        {
+                            "id": 9,
+                            "title": "Развлечения",
+                            "order": 4,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 462,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/xxMHAhnqNiqHjSn7.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Образование и Хобби",
+            "order": 2,
+            "benefits_count": 18,
+            "benefits": [
+                {
+                    "id": 330,
+                    "title": "Lerna",
+                    "description": "<p>Онлайн-курсы от проверенных школ на одной платформе.</p><p>На платформе представлены дистанционные образовательные курсы от известных онлайн-школ для начинающих и практикующих специалистов по востребованным направлениям:</p><p>Программирование - более 100 курсов обучения в области информационных технологий: разработка ПО и мобильных приложений, программирование на языках Java, Python, JavaScript, C# и др., изучение принципов работы с данными по направлениям Data Science и Data Engineering, а также другие востребованные IT-специальности.</p><p>Дизайн - более 80 программ по направлениям от веб-дизайна, компьютерной графики, UX/UI, 3D-моделирования, иллюстрации до ландшафтного, интерьерного дизайна и фотографии.</p><p>Маркетинг - онлайн-обучение профессиям в области SMM, рекламы, бренд-менеджмента, маркетинговой аналитики, e-commerce и много другого.</p><p>Управление бизнесом, персоналом, командой - обучение менеджменту для новичков и экспертов.</p><p>Мультимедиа - образовательные программы в области режиссуры, продюсирования, монтажа, создания музыки и сонграйтинга.</p><p>Игры - обучающие программы от гейм-дизайна, разработки игр на Unity и Unreal Engine 4, моделирования игровых персонажей и локаций до шахмат и Академии &quot;Dota 2&quot;.</p>",
+                    "sale": "до 45%",
+                    "sale_conditions": "<p><strong>Каждый сотрудник при регистрации на платформе получает: </strong></p><p>- приветственный бонус при регистрации <strong>250 BY</strong><strong>N</strong> = 250 баллов (1 BYN = 1 балл);</p><p>- оплата баллами до 30% стоимости курса;</p><p><strong>Специальные корпоративные скидки на курсы: </strong></p><p>- на курсы Skillbox - скидка 45%&nbsp;</p><p>- на курсы Geekbrains - скидка 25%;</p><p>- кешбэк 30% по каждому купленному курсу.<br><strong><br>*ссылка приглашение на платформу ниже</strong></p>",
+                    "website_url": "https://www.lerna.by/register/?company=f0b9c944-0ada-4cae-8315-ea3a191c90fb",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": null,
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 3,
+                            "title": "Образование и Хобби",
+                            "order": 2,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 478,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/wcJWMrgFEzpMz4eD.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 267,
+                    "title": "Студия красоты. Школа грима и макияжа Анны Султановой",
+                    "description": "<p><strong>Студия красоты:</strong><br>Вы можете забронировать образ от знаменитого художника - гримёра с Мосфильма !<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Анна Султанова - создатель Go home loft, дипломированный специалист Мосфильма и Ленфильма, художник по гриму (макияж, причёски, грим) , педагог, основатель школы грима и макияжа.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Трёхкратный победитель конкурса &quot;Гример года&quot;</p><p><strong>Школа гримма и макияжа:</strong><br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Курс &quot;МАКИЯЖ ДЛЯ СЕБЯ&quot;<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Курс &quot;ЭКСПРЕСС УКЛАДКИ НА КАЖДЫЙ ДЕНЬ &quot;<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Курс &quot;ВИЗАЖИСТ&quot;<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Курс &quot;МАСТЕР ПО ПРИЧЁСКАМ&quot;<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Курс &quot;ХУДОЖНИК ПО ГРИМУ &quot;<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">При прохождении трёх курсов трудоустройство в кино и практика на самых масштабных мероприятиях Москвы! &nbsp;</p>",
+                    "sale": "20%",
+                    "sale_conditions": "<p>Для получения 20% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение <a href=\"https://www.instagram.com/makeupsultanova/\">Анне</a></p>",
+                    "website_url": null,
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/makeupsultanova/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 6,
+                            "title": "Красота и Здоровье",
+                            "order": 5,
+                            "benefits_count": null
+                        },
+                        {
+                            "id": 3,
+                            "title": "Образование и Хобби",
+                            "order": 2,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 407,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/gTCm4fHKQ8Srj5jX.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 260,
+                    "title": "Moscow Business School",
+                    "description": "<p>Moscow Business School &mdash; одна из ведущих бизнес-школ России.<br>Наши экспертные преподаватели &mdash; это высококвалифицированная команда управленцев, менеджеров, тренеров и практиков. Общение с такими интересными людьми во время обучения дает слушателям не только новые знания и идеи, но и импульс к их реализации.</p>",
+                    "sale": "25%",
+                    "sale_conditions": "<p>Скидка 25% на все продукты (МВА, Профессии, семинары, тренинги, курсы повышения квалификации)</p><p>Для получения 25% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оплате курса на сайте <a href=\"https://mbschool.ru/\">MBS</a></p>",
+                    "website_url": "https://mbschool.ru/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/mbschoolru/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 2,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 3,
+                            "title": "Образование и Хобби",
+                            "order": 2,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 399,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/tTMlNd42terEbI5J.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 244,
+                    "title": "EnglishDom",
+                    "description": "<p>EnglishDom &ndash; онлайн-школа английского языка и продуктовая IT-компания, основанная в 2010 году. Является одним из лидеров EdTech в Восточной Европе. В EnglishDom преподает 900 преподавателей и занимается 50 тыс. активных пользователей. Миссия компании &ndash; вдохновлять выучить английский с помощью технологий и человеческой заботы. &nbsp;</p>",
+                    "sale": "5%",
+                    "sale_conditions": "<p>Для получения 5% скидки необходимо перейти по ссылке <a href=\"https://www.englishdom.com/corporate/mediacube_ru\">EnglishDom</a><br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">1. C Вами созванятся и согласуют удобный день и время для бесплатного урока.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">2. После урока, если формат обучения подходит, мы подбирается курс, преподавателя, график и запускаем обучение и подключается скидка 5% на любой пакет обучения, на постоянной основе.</p><p>Помимо уроков с преподавателем со скидкой, доступно:<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">- безлимитное пользование разговорными клубами<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">- доступ к онлайн-курсам для самостоятельного прохождения дополнительных курсов<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">- 3 мобильных приложения: для выполнения домашнего задания, для тренировок с онлайн-курсами, для изучения слов<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">- доступ к платформе 24/7, где можно пользоваться материалами: книги, видео, аудио, тренажеры, повторить урок<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">- есть личный куратор, который помогает следит за прогрессом.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">* согласно выбранного пакета: 5 уроков - 2 недели // 10 уроков - 1 месяц // 20 уроков - 3 месяцев // 50 уроков - 6 месяцев</p>",
+                    "website_url": "https://www.englishdom.com/corporate/mediacube_ru",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/englishdom_school/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 2,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 3,
+                            "title": "Образование и Хобби",
+                            "order": 2,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 382,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/6JS6BO9HcVij6Q61.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 215,
+                    "title": "Robolab школа робототехники",
+                    "description": "<p>High-tech технологии изменили все вокруг. Сегодня мы не представляем жизнь без смартфона, по дорогам ездят электромобили, а дома убирают роботы-пылесосы. Другие знания и навыки стали необходимые для успеха в жизни.<br style=\"box-sizing: border-box; color: rgb(38, 50, 56); font-family: ;\">Школьной программы уже не хватает. Чтобы стать успешным, нужно разбираться в IT и развивать soft skills (уметь работать в команде, творчески мыслить, самостоятельно принимать решения и др.). Именно эти знания и навыки получают дети в ROBOLAB.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа на сайте <a href=\"https://robolab.by/\">Robolab</a></p>",
+                    "website_url": "https://robolab.by/",
+                    "address": "ул. Зыбицкая, 2, офис 401",
+                    "longitude": 27.559952,
+                    "latitude": 53.905827,
+                    "instagram_url": "https://www.instagram.com/robolabpro/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 3,
+                            "title": "Образование и Хобби",
+                            "order": 2,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 365,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/F53dMR0v6wSZejOE.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Спорт и Отдых",
+            "order": 3,
+            "benefits_count": 13,
+            "benefits": [
+                {
+                    "id": 321,
+                    "title": "Yellowe BIRDS",
+                    "description": "<p><strong>Wellness-пространство</strong> &ndash; удобная атмосферная зона коррекции фигуры с современным физиотерапевтическим оборудованием поможет Вам совершенствовать своё тело без суровых диет и тяжёлых физических нагрузок.</p>",
+                    "sale": "15%",
+                    "sale_conditions": "<p>Для получения 15% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру &nbsp;<a href=\"http://www.yellowbirds.by\">Yellowe DIRDS</a></p><p>*за исключением акционных предложений</p>",
+                    "website_url": "http://www.yellowbirds.by",
+                    "address": "Ул. Репина, 4",
+                    "longitude": 27.525845,
+                    "latitude": 53.912605,
+                    "instagram_url": "https://www.instagram.com/yellowbirds.minsk/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 2,
+                            "title": "Спорт и Отдых",
+                            "order": 3,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 468,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/UaKWGwDjtrTtB4JZ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 270,
+                    "title": "FITMOST",
+                    "description": "<p><strong>ПРЕИМУЩЕСТВА ЕДИНОГО АБОНЕМЕНТА FITMOST</strong><br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">СВОБОДА<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Вы не привязаны к месту и времени. Каждый час начинаются десятки интересных занятий рядом с вами<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">РАЗНООБРАЗИЕ<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">От кроссфита и сайклинга до фехтования и батута: FITMOST объединяет как популярные, так и самые необычные направления.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">ВЫГОДА<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Выберите удобный темп занятий и платите только за то, куда действительно ходите.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">УДОБСТВО<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Подбирайте тренировку по направлению и локации. Для посещения потребуется только код брони: он доступен в приложении и в смс.</p>",
+                    "sale": "20%",
+                    "sale_conditions": "<p>Для получения 20% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа на сайте &nbsp;</p>",
+                    "website_url": "https://fitmost.onelink.me/c2rd/d3c740a2",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/fitmost/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 1,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 2,
+                            "title": "Спорт и Отдых",
+                            "order": 3,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 411,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/TvRyCsGXoIn0GvPC.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 200,
+                    "title": "KINEZIOFIT",
+                    "description": "<p>Более 30 видов массажа от антицеллюлитного и спортивного до<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">калифорнийского и Гуаша.</p>",
+                    "sale": "20%",
+                    "sale_conditions": "<p><strong>Скидка</strong> <strong>2</strong><strong>0% на все виды массажа</strong></p><p><span style=\"color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Для получения 20% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение администратору <a href=\"http://kineziofit.by/\">KINEZIOFIT</a></span></p>",
+                    "website_url": "http://kineziofit.by/",
+                    "address": "Пр-т Победителей 4, 3 этаж",
+                    "longitude": 27.54973,
+                    "latitude": 53.910707,
+                    "instagram_url": "https://www.instagram.com/kineziofit.by/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 2,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 2,
+                            "title": "Спорт и Отдых",
+                            "order": 3,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 349,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/kFjM8oqUP3oCl6yn.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 199,
+                    "title": "F1 Fitness",
+                    "description": "<p>Фитнес- клуб в самом центре Минска. Профессиональное оборудование CYBEX<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">(USA) и PANATTA (Italy). Групповые и индивидуальные тренировки по<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">единоборствам - бокс/кикбоксинг/фитбокс/ ММА</p>",
+                    "sale": "20%",
+                    "sale_conditions": "<p>Скидка<strong>&nbsp;20% на все типа абонементов&nbsp;</strong>и <strong>акционное предложение</strong> (10 персональных тренировок + безлимитный абонемент в зал за 300р)</p><p>Для получения 20% скидки или акционного предложения необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение администратору <a href=\"https://www.f1fitness.by/\">F1 Fitness</a></p>",
+                    "website_url": "https://www.f1fitness.by/",
+                    "address": "Пр-т Победителей 4, 3 этаж",
+                    "longitude": 27.54973,
+                    "latitude": 53.910707,
+                    "instagram_url": "https://www.instagram.com/f1fitnessminsk/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 2,
+                            "title": "Спорт и Отдых",
+                            "order": 3,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 347,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/4i7jmnNrbF79WcAo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 198,
+                    "title": "UFC GYM RUSSIA",
+                    "description": "<p>Сеть фитнес-клубов с уникальной программой тренировок, вдохновленной подготовкой лучших атлетов мира. Клубы UFC GYM можно найти по всему миру и два из них уже в Москве.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Скидка 10% на все карты в залах.</p><p>Для получения 10% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение администратору <a href=\"https://ufcgymrussia.ru/\">UFC GYM</a></p>",
+                    "website_url": "https://ufcgymrussia.ru/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/ufcgymrussia/?hl=ru",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 1,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 2,
+                            "title": "Спорт и Отдых",
+                            "order": 3,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 346,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/XzjtGFh58ib8ct8k.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Развлечения",
+            "order": 4,
+            "benefits_count": 17,
+            "benefits": [
+                {
+                    "id": 340,
+                    "title": "META ARENA",
+                    "description": "<p>Крупнейшая площадка для игр и киберспортивных мероприятий в Беларуси.</p>",
+                    "sale": "5%",
+                    "sale_conditions": "<p>При предъявлении промокода на кассе, вы получите META CARD, карточку программы лояльности Арены, сразу со 2 уровня из 5. Эта карточка будет давать возможность накапливать процент баллов на разных уровнях программы лояльности. Уровни зависят от накопленной суммы всех выплат, сделанных совместно с картой лояльности.</p><p>На 2 уровне будет доступно к накоплению до 5% бонусных баллов с каждого чека и он будет действовать на все в Арене, но оплачивать ими нельзя будет алкогольные, табачные изделия и автоматы с едой.</p>",
+                    "website_url": "https://metaarena.by/",
+                    "address": "улица Якуба Коласа, 37",
+                    "longitude": 53.9259,
+                    "latitude": 27.592706,
+                    "instagram_url": "https://www.instagram.com/metaarenaminsk/",
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 9,
+                            "title": "Развлечения",
+                            "order": 4,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 488,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/K1XtNUh3KQcajwi3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 315,
+                    "title": "LAPA WARM квест по языкам любви | свечи",
+                    "description": "<p><strong>Квест-игра для пар &laquo;5 языков любви&raquo;</strong><br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\">Игра, которая покорила многих<br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\">Это полноценный сюрприз для двоих.<br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\"><strong>Внутри:</strong> 6 подарков и 5 совместных заданий, игра упаковывает так, чтобы можно было сразу дарить<br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\">Игра рассчитана на пары, которые хотят разнообразить отношения, узнать как сделать вторую половинку ещё счастливее и просто здорово повести время.<br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\"><strong>Суть игры:</strong> открывать конверты/свертки по нумерации и выполнять задания, вместе проводить время и открывать подарки</p><p><strong>Свечи</strong><br style=\"color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, ;\">Формы выполнены из гипса, используется натуральный соевый воск. Деревянный или хлопковый фитиль на выбор, аромат и декор в подарок</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и полученный промокод использовать при оформлении заказа в <a href=\"https://www.instagram.com/lapa_warm.by/?utm_medium=copy_link\">LAPA WARM</a></p>",
+                    "website_url": "https://linkrr.ru/lapawarm.by",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/lapa_warm.by/?utm_medium=copy_link",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 12,
+                            "title": "Доставки и Магазины",
+                            "order": 1,
+                            "benefits_count": null
+                        },
+                        {
+                            "id": 9,
+                            "title": "Развлечения",
+                            "order": 4,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 462,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/xxMHAhnqNiqHjSn7.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 314,
+                    "title": "Неоно-развлекательный GOLF PARK",
+                    "description": "<p>Неоново-развлекательный центр Golf Park в Минске&mdash; идеальное место для яркого и запоминающегося праздника, где каждый сможет найти развлечение по вкусу.&nbsp;</p><p>Услуги центра &laquo;Гольф-парк&raquo;</p><p>закрытое поле мини-гольфа с 12 сертифицированными светящимися дорожками, выполненными по индивидуальному заказу;</p><p>сухой бассейн;</p><p>игра в интерактивный гольф-симулятор;</p><p>разнообразные настольные игры и невероятная космическая атмосфера.</p>",
+                    "sale": "30%",
+                    "sale_conditions": "<p>Для получения 30% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение администратору <a href=\"https://neonpark.by/\">Неоновый GOLF PARK</a></p><p>Актуальная стоимость посещения Неон Парка и Гольф Парка:</p><p>Пн-Чт 15BYN 1час/1 &nbsp;гость</p><p>Пт-Вс 17 BYN 1час/1 гость</p><p>Стоимость со скидкой:</p><p>Пн-Чт 10 Byn</p><p>Пт-вВс 12 Byn</p>",
+                    "website_url": "http://golfpark.by/",
+                    "address": "Ул. Максима Богдановича , 23 (вход с улицы)",
+                    "longitude": 27.557666,
+                    "latitude": 53.909503,
+                    "instagram_url": "https://www.instagram.com/golf_park_minsk/?utm_medium=copy_link",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 9,
+                            "title": "Развлечения",
+                            "order": 4,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 461,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/pGQIf003wEC0LtNv.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 313,
+                    "title": "NEON PARK",
+                    "description": "<p>Развлекательный центр &laquo;Neon park (Неон парк)&raquo; &mdash; это парк неоновых развлечений для детей и взрослых, где можно весело и увлекательно провести время наедине вдвоем, дружной семьей или большой компанией. Уникальные локации, фантастические развлечения, красочная анимация, захватывающая атмосфера &mdash; здесь гарантированно подарят яркие эмоции, которые останутся приятным воспоминанием.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p><span style=\"color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Для получения 10% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение администратору <a href=\"https://neonpark.by/\">NEON PARK</a></span></p>",
+                    "website_url": "https://neonpark.by/",
+                    "address": "Пр. Независимости 3/2,  ТЦ \"Столица\"",
+                    "longitude": 27.547577,
+                    "latitude": 53.89525,
+                    "instagram_url": "https://www.instagram.com/neonpark.by/?utm_medium=copy_link",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 9,
+                            "title": "Развлечения",
+                            "order": 4,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 460,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/oTrcmSDL2XAjBUay.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 301,
+                    "title": "R-парк активного отдыха",
+                    "description": "<p>R-парк &mdash; это уникальное место для активного отдыха детей и взрослых. Для вас работает только профессиональный персонал. Большой выбор развлечений на любой вкус и возраст. Лучший отдых &mdash; активный! Лучший активный отдых в Минске &mdash; в R-парке!</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру <a href=\"https://r-park.by/\">R-парка</a><br>*скидка не распространяется на услуги подрядчиков ( проживание, питание, трансфер)</p>",
+                    "website_url": "https://r-park.by/",
+                    "address": "Ул. Веры Харужей 25",
+                    "longitude": 27.565537,
+                    "latitude": 53.920826,
+                    "instagram_url": "https://www.instagram.com/r_park.by/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 9,
+                            "title": "Развлечения",
+                            "order": 4,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 447,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/JmIx0eL6JCd9I3Z7.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Красота и Здоровье",
+            "order": 5,
+            "benefits_count": 39,
+            "benefits": [
+                {
+                    "id": 341,
+                    "title": "Санаторий «Альфа Радон»",
+                    "description": "<p>Медикал&amp;СПА Резорт &laquo;Альфа Радон&raquo; &mdash; многофункциональный комплекс с новым для Беларуси подходом к лечению. В комплексе вы найдете все необходимое для полноценного отдыха и оздоровления: благоприятные природные условия, спокойную расслабляющую атмосферу, профессиональное лечение в сочетании с комфортными условиями проживания и здоровым питанием. К вашим услугам развитая инфраструктура, качественное обслуживание с учетом использования новейших технологий, клиентоориентированный сервис, а также широкий спектр медицинских и СПА-услуг для полноценного отдыха и укрепления здоровья.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>10% от действующих цен на санаторно-курортные и оздоровительные путевки. При бронировании необходимо выслать фото пропуска с лого и ланьярдом/ скриншот активации в приложении</p>",
+                    "website_url": "https://alfaradon.by/",
+                    "address": "Гродненская область, Дятловский район, д.Боровики, 40 П",
+                    "longitude": 53.516221,
+                    "latitude": 25.501638,
+                    "instagram_url": null,
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 6,
+                            "title": "Красота и Здоровье",
+                            "order": 5,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 489,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/eVj3WPfSMAKdHUWc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 334,
+                    "title": "Массажная мастерская KUSHETKA",
+                    "description": "<p>Избавим от боли, снимем стресс, скорректируем фигуру. Студия в центре Минска.</p>",
+                    "sale": "20%",
+                    "sale_conditions": "<p>Активация скидки 20% в приложении.</p>",
+                    "website_url": null,
+                    "address": "ул. Гикало, 1",
+                    "longitude": 53.916546,
+                    "latitude": 27.587065,
+                    "instagram_url": "https://www.instagram.com/kushetka.massage/",
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 6,
+                            "title": "Красота и Здоровье",
+                            "order": 5,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 482,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/coUyQWMo9CWl67KC.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 332,
+                    "title": "Айдентал",
+                    "description": "<p>Стоматологическая клиника Айдентал успешно работает в Минске с 2019 года. Мы уже достигли больших результатов и завоевали доверие и хорошую репутацию среди наших пациентов. На сегодняшний день у нас работает сильная команда прекрасных специалистов, которые способны профессионально и оперативно оказать стоматологическую помощь даже в самых сложных случаях. Мы ставим результат нашей работы во главе всего процесса, так как вся команда специалистов клиники заинтересована в непрерывном и динамичном развитии бизнеса. Наша клиника предоставляет полный спектр услуг в области стоматологии: протезирование, профессиональная гигиена, отбеливание, 3D рентген диагностика, косметическая реставрация зубов, пломбирование, лечение зубов, керамические и коронки из диоксида циркония, коронки на имплантах, изготовление условно-съемных протезов на имплантах. Всё стоматологическое оборудование в нашей клинике сделаны по последнему слову техники и отвечают всем требованиям современной стоматологии. Вы будете приятно удивлены качеством выполняемых нами работ, потому что мы используем только самые лучшие современные медикаменты.</p>",
+                    "sale": "5%-50%",
+                    "sale_conditions": "<p>Скидки распространяются на услуги:</p><p>&bull; протезирование и имплантация - скидка 5%;</p><p>&bull; лечение - скидка 10%;</p><p>&bull; снимки (в том числе 3D), удаление, отбеливание - скидка 20%;</p><p>&bull; чистка зубов у детей сотрудников до 10 лет - 50%.</p><p>К оплате принимаются наличные деньги и пластиковые карты. При оплате банковской картой скидка уменьшается на % комиссии банка. В случае большого объема (имплантация и протезирование одной или двух челюстей) может быть предоставлена дополнительная скидка.</p>",
+                    "website_url": "https://ident.by/",
+                    "address": "пр.Дзержинского, 78, пом.127",
+                    "longitude": 53.870798,
+                    "latitude": 27.49037,
+                    "instagram_url": null,
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 6,
+                            "title": "Красота и Здоровье",
+                            "order": 5,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 480,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/AKdeMag4Gw0MXfO8.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 329,
+                    "title": "Barber Dima",
+                    "description": null,
+                    "sale": "25%",
+                    "sale_conditions": "<p>Для получения <strong>25% скидки</strong> необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение сотруднику барбершопа <a href=\"https://kuhnya.delivery/kyiv/kuhnya\"></a> <a href=\"https://www.instagram.com/_dima.barber/\"><strong>Barber Dima</strong></a><br><br><strong>Скидка 25% на услуги:<br>Стрижка - 20р<br>Стрижка + борода - 30р</strong><br>(цены указаны с учетом скидки)<br><br>*необходимо заранее записаться через <a href=\"https://www.instagram.com/_dima.barber/\">instagram</a></p>",
+                    "website_url": null,
+                    "address": "Ул. Максима Богдановича 8",
+                    "longitude": 27.56078,
+                    "latitude": 53.912468,
+                    "instagram_url": "https://www.instagram.com/_dima.barber/",
+                    "is_novelty": true,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 6,
+                            "title": "Красота и Здоровье",
+                            "order": 5,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 477,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/3cfz9WhuzzvJXzmi.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 327,
+                    "title": "MOHITO",
+                    "description": null,
+                    "sale": "10%",
+                    "sale_conditions": "<p><strong>Скидка 10% на маникюр и педикюр.</strong></p><p>Для получения скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение администратору <a href=\"https://www.instagram.com/mohito_minsk/\" style=\"box-sizing: border-box; color: rgb(70, 127, 207); text-decoration: none; background-color: rgb(255, 255, 255); text-decoration-skip-ink: auto; user-select: auto; font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;\"><strong>MOHITO</strong></a></p>",
+                    "website_url": null,
+                    "address": "Ул. Машерова 18",
+                    "longitude": 27.573323,
+                    "latitude": 53.915763,
+                    "instagram_url": "https://www.instagram.com/mohito_minsk/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 6,
+                            "title": "Красота и Здоровье",
+                            "order": 5,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 473,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/5nmfkp9M0kAsE9zH.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Одежда и Обувь",
+            "order": 6,
+            "benefits_count": 21,
+            "benefits": [
+                {
+                    "id": 331,
+                    "title": "Pink Punk",
+                    "description": "<p>Бренд одежды собственного производства. С доставкой и примеркой по Минску. Также доставка почтой по Миру.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>10% скидка на все вещи, кроме коллекционных NFT и одежды в которой NFC метки привязаны к интеллектуальным собственностям. Скидка распространяется на весь чек и не суммируется с другими скидками</p><p>Подтверждение скидки - скрин из приложения</p>",
+                    "website_url": "https://www.instagram.com/pinkpunk_brand/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": null,
+                    "is_novelty": true,
+                    "is_popular": true,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 4,
+                            "title": "Одежда и Обувь",
+                            "order": 6,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 479,
+                            "path": "https://benefits.mediacube.co/img/benefit/gallery/original/VlPGSIWn80sUG95K.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 252,
+                    "title": "VANLIM – ОБУВЬ РУЧНОЙ РАБОТЫ",
+                    "description": "<p>Мы создали обувь, которая экономит время женщины. Универсальную и стильную. Она легко комбинируется с разными образами.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Все производство базируется в Москве. Натуральные кожа и нубук используются в отделке верха обуви, для подошвы мы выбираем современные износостойкие материалы.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа на сайте <a href=\"https://vanlim.com/\">VANLIM</a></p>",
+                    "website_url": "https://vanlim.com/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/vanlimshoes/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 4,
+                            "title": "Одежда и Обувь",
+                            "order": 6,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 391,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/Md1hWfWKTu01sp2B.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 221,
+                    "title": "WOOGEE shop",
+                    "description": null,
+                    "sale": "15%",
+                    "sale_conditions": "<p>Для получения 15% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа на сайте <a href=\"https://woogee.shop/\">WOOGEE</a></p>",
+                    "website_url": "https://woogee.shop/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/woogee.shop/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 7,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 4,
+                            "title": "Одежда и Обувь",
+                            "order": 6,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 371,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/w78ixGT8DxtNQbgK.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 219,
+                    "title": "Магазин кроссовок СНИКЕРХЭД",
+                    "description": "<p>Магазин кроссовок СНИКЕРХЭД - один из самых узнаваемых магазинов страны, нас выбирают известные блогеры и исполнители, наши кроссовки ежегодно покупают тысячи жителей Беларуси. Мы годами продвигаем культуру оригинальных кроссовок и являемся самым крупным магазинов по количество активной аудитории во всех соц. сетях! У нас более 20.000 положительных отзывов за все годы работы!</p>",
+                    "sale": "15%",
+                    "sale_conditions": "<p>Для получения 15% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру <a href=\"https://sneaker-head.by/\">СНИКЕРХЭД</a>&nbsp;</p>",
+                    "website_url": "https://sneaker-head.by/",
+                    "address": "Пр-т Победителей 5, 2 этаж, 218 офис",
+                    "longitude": 27.550606,
+                    "latitude": 53.907385,
+                    "instagram_url": "https://www.instagram.com/sneakerhead_belarus/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 2,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 4,
+                            "title": "Одежда и Обувь",
+                            "order": 6,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 369,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/bxEAER2GrRQNUH9m.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 217,
+                    "title": "Персональный стилист",
+                    "description": "<p>Если вы сталкивались с проблемой &quot;мне нечего надеть&quot;,<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">вещей в шкафу много, как эффективно их сочетать - не понятно, сборы утром занимают у вас много времени, а покупки не приносят удовольствия и разнообразия комплектов - вам нужна помощь стилиста! Ко мне можно обратиться за услугами разбор гардероба, шопинг-сопровождение или за консультацией<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-Разбор гардероба (до 3х часов)<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">(сезон весна-лето \\ осень-зима)<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">В услугу входит:<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Анализ гардероба, включая обувь, сумки, аксессуары, в процессе которого уберем неактуальные и неподходящие к образу жизни вещи.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Рекомендации по типу фигуры и цветотипу.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Составленные мной комплекты из всех оставшихся вещей+фото шпаргалки образов.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Составленный шопинг-лист с рекомендованными фасонами.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Рекомендации по грамотному хранению вещей.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-Шопинг-сопровождение (до 3х часов)<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">В услугу входит:<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Составленный шопинг-лист.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Рекомендации по типу фигуры и цветотипу.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Шопинг в ТЦ, где я подберу (до вашего приезда) идеально подходящие комплекты из необходимых к покупке вещей.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Фото-шпаргалки комплектов из примерочной на вас.При покупке услуг БОНУС - онлайн поддержка в течение 14 дней после услуги, по всем возникающим вопросам.</p>",
+                    "sale": "15%",
+                    "sale_conditions": "<p>Для получения 15% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение <a href=\"https://www.instagram.com/kristilina_e/\">Кристине</a></p>",
+                    "website_url": null,
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/kristilina_e/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 4,
+                            "title": "Одежда и Обувь",
+                            "order": 6,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 367,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/T8vweXcvPt7kNrjn.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Всё для съёмок",
+            "order": 7,
+            "benefits_count": 10,
+            "benefits": [
+                {
+                    "id": 268,
+                    "title": "Fotofabrica",
+                    "description": "<p>FOTOFABRIKA &mdash; одна из крупнейших фотостудий Москвы. 15 залов: белые и чёрная циклорама, интерьеры и фоновые залы, гримёрный класс на 30 мест. 55 оттенков бумажных фонов, более 15 тканевых фонов, косметика и сопутствующие товары, грандиозная коллекция чая.</p>",
+                    "sale": "25%",
+                    "sale_conditions": "<p>Для получения 25% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод необходимо ввести в поле при бронировании студии на сайте <a href=\"http://foto-fabrika.ru/\">Fotofabrica</a>&nbsp;</p>",
+                    "website_url": "http://foto-fabrika.ru/",
+                    "address": "м.Дмитровская, ул. Новодмитровская, д. 5а стр.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/fotofabrikastudio/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 8,
+                            "title": "Всё для съёмок",
+                            "order": 7,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 408,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/beCbHPuVvFfXYXsb.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 251,
+                    "title": "ТикТок Парк",
+                    "description": "<ul><li>WOW-контент для твоих соцсетей</li><li>20+ фотозон&nbsp;</li><li>смотри наши актуальные в instagram</li></ul>",
+                    "sale": "25%",
+                    "sale_conditions": "<p>Для получения 30% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру <a href=\"https://www.instagram.com/tiktokparkminsk/\">ТикТок Парка</a></p>",
+                    "website_url": null,
+                    "address": "ТЦ \"Столица\" МИНСК",
+                    "longitude": 27.547953,
+                    "latitude": 53.895549,
+                    "instagram_url": "https://www.instagram.com/tiktokparkminsk/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 1,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 8,
+                            "title": "Всё для съёмок",
+                            "order": 7,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 389,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/eK0jx45Wtrnt9oeN.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 250,
+                    "title": "ТикТок Парк",
+                    "description": "<ul><li>WOW-контент для твоих соцсетей</li><li>20+ фотозон&nbsp;</li><li>смотри наши актуальные</li></ul><p><br></p>",
+                    "sale": "50%",
+                    "sale_conditions": "<p><span style=\"color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Для получения 50% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру&nbsp;<a href=\"https://www.instagram.com/tiktokparkminsk/\">ТикТок Парка</a></span></p>",
+                    "website_url": null,
+                    "address": "ТРЦ \"Столица\" МИНСК",
+                    "longitude": 27.547953,
+                    "latitude": 53.895549,
+                    "instagram_url": "https://www.instagram.com/tiktokparkminsk/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 1,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 8,
+                            "title": "Всё для съёмок",
+                            "order": 7,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 388,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/4Ez9CGEPsj0Uhu9j.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 247,
+                    "title": "FotoAnturag Studio",
+                    "description": "<p>Светлое, уютное, творческое пространство для создания прекрасных фотографий!<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Студия Fotoanturag&nbsp;это :<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Почасовая Аренда Залов<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-Два светлых и уютных зала<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-В каждом зале более 4х локаций<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-Множество реквизита и декора<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-Ростовое зеркало - Fashion Зал<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-Бумажные Фоны - Fashion Зал<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-Потолки высотой 6 метров<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-В каждом зале: фантастический естественный свет<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">-В каждом зале: импульсный свет - 2 источника + синхронизатор в студии Fotoanturag есть своя профессиональная команда фотографов/видеографов, которые готовы запечатлеть самые значимые моменты Вашей жизни!!!</p>",
+                    "sale": "20%",
+                    "sale_conditions": "<p>Для получения 20% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение администратору <a href=\"http://www.fotoanturag.ru/\">FotoAnturag</a></p>",
+                    "website_url": "http://www.fotoanturag.ru/",
+                    "address": "Ул. 3-почтовое отделение, дом 65, подъезд 2, эт. 25, офис 401",
+                    "longitude": 37.865633,
+                    "latitude": 55.682989,
+                    "instagram_url": "https://www.instagram.com/fotoanturag_studio/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 8,
+                            "title": "Всё для съёмок",
+                            "order": 7,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 385,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/xE1sU16mn77iRWwo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 246,
+                    "title": "Go Home Арт Пространство",
+                    "description": "<p>Самое атмосферное место в Москве!<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">3 просторных зала<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Много естественного света<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Гарантия записи чистого звука !<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Кухни на которых можно<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">готовить!<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Кинопроектор!<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Фото и видео свет входит в стоимость аренды залов !</p>",
+                    "sale": "10%-20%",
+                    "sale_conditions": "<p>Скидка 10% и скидка 20% при аренде от 5 часов.</p><p>Для получения скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение администратору <a href=\"https://gohome21.ru/\">Go Home</a></p>",
+                    "website_url": "https://gohome21.ru/",
+                    "address": "Ул. Электрозаводская, д. 21",
+                    "longitude": 30.302108,
+                    "latitude": 60.085407,
+                    "instagram_url": "https://www.instagram.com/go_home_loft/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 1,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 8,
+                            "title": "Всё для съёмок",
+                            "order": 7,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 390,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/EpqXmSXfVrBAnTRs.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Авто",
+            "order": 8,
+            "benefits_count": 5,
+            "benefits": [
+                {
+                    "id": 213,
+                    "title": "Intelwash",
+                    "description": null,
+                    "sale": "50%",
+                    "sale_conditions": "<p>Скидка <strong>50% на первую мойку для новых клиентов</strong> и распространяется на 2 3 и 4 программу.</p><p>Для получения 50% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа.</p><p>Для того чтобы активировать скидку, клиенту необходимо подъехать к терминалу оплаты перед въездом в бокс.<br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Для того чтобы воспользоваться промокодом необходимо <strong>выбрать одну из программ</strong> на терминале оплаты, появятся варианты оплаты среди которых будет <strong>&quot;Промокод&quot;</strong><br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Введите <strong>номер промокода</strong>, <strong>ваш номер телефона и код подтверждения из см</strong><strong>с</strong><br style=\"box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">После этого появятся программы со скидкой и вы сможете оплатить удобным для вас способом: картой/наличными.</p>",
+                    "website_url": "https://intelwash.ru/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": null,
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 7,
+                            "title": "Авто",
+                            "order": 8,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 363,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/vprgvKdcA1Wi8gnw.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 144,
+                    "title": "Autobezzabot.ru",
+                    "description": "<p>Сертифицированный детейлинг - центр в Москве.&nbsp;</p><p>Детейлинг &mdash; это комплекс услуг по уходу за интерьером и экстерьером автомобиля. Сервис прибавляет машине привлекательности и продлевает ей жизнь.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки Вам необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру <a href=\"https://autobezzabot.ru/\"><strong>Autobezzabot</strong></a>.</p>",
+                    "website_url": "https://autobezzabot.ru/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/autobezzabot/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 7,
+                            "title": "Авто",
+                            "order": 8,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 270,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/KZ4QmCWxrPIFVzEu.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 131,
+                    "title": "Каршеринг HELLO",
+                    "description": "<p>Современный вид общественного транспорта, в котором рулишь ты сам!</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p><strong>Скидка 10% предоставляется на все время движения (минутный тариф) на машины Volkswagen Polo.</strong><br><br>Для получения скидки необходимо пройти регистрацию в приложении <strong>Hello</strong> <em>(скачать для&nbsp;<a href=\"https://play.google.com/store/apps/details?id=by.hello.app\"><strong>Android</strong></a><strong>,&nbsp;</strong><a href=\"https://apps.apple.com/ru/app/hello-%D0%BA%D0%B0%D1%80%D1%88%D0%B5%D1%80%D0%B8%D0%BD%D0%B3-%D0%BC%D0%B8%D0%BD%D1%81%D0%BA/id1459837414?ls=1\"><strong>IOS</strong></a>)</em>, привязав аккаунт к почте <strong>Mediacube</strong>.</p><p>В личном кабинете тариф со скидками должен быть активирован автоматически.</p>",
+                    "website_url": "https://hello.by/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/hello.minsk/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 7,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 7,
+                            "title": "Авто",
+                            "order": 8,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 257,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/mZKLguZRYAVK9jLW.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 96,
+                    "title": "Выездной шиномонтаж  \"WHEEL SERVICE 24\"",
+                    "description": "<p>Мобильный шиномонтаж с оперативным выездом в любую точку Москвы и Московской области.</p><ul><li><span style='color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>Срочный выезд 24/7</span></li><li><span style='color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>Сезонная смена шин</span></li><li><span style='color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>Ремонт проколов</span></li><li><span style='color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>Хранение шин</span> </li></ul>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение мастеру <a href=\"https://wheel-service24.ru/#uslugi\"><strong>WHEEL SERVICE 24</strong></a>.</p>",
+                    "website_url": "https://wheel-service24.ru/#uslugi",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/wheel_service24/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 7,
+                            "title": "Авто",
+                            "order": 8,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 177,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/jVn9gmsylWJCXBRZ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 85,
+                    "title": "Каршеринг Везуха",
+                    "description": "<p>Сервис по-настоящему удобной аренды автомобилей в Минске!</p>",
+                    "sale": "7 бонусов на счет",
+                    "sale_conditions": "<p>Для активации бенефита:&nbsp;</p><ol><li><strong>Для получения промокода&nbsp;</strong>необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и появившееся сообщение будет его содержать.</li><li>Установите приложение Везуха (скачать для <a href=\"https://play.google.com/store/apps/details?id=club.vezuha.app\"><strong>Android</strong></a><strong>,</strong><a href=\"https://apps.apple.com/ru/app/%D0%B2%D0%B5%D0%B7%D1%83%D1%85%D0%B0-%D0%BA%D0%B0%D1%80%D1%88%D0%B5%D1%80%D0%B8%D0%BD%D0%B3-%D0%BC%D0%B8%D0%BD%D1%81%D0%BA/id1396472699\"><strong>IOS</strong></a>)</li><li>В момент регистрации введите активированный в нашем приложении промокод (бонус зачислится сразу, воспользоваться им можно будет сразу после одобрения регистрации)</li></ol>",
+                    "website_url": "https://vezuha.club",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/vezuha.club/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 8,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 7,
+                            "title": "Авто",
+                            "order": 8,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 166,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/iHLJvRKvuXNohzHw.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Цветы",
+            "order": 9,
+            "benefits_count": 6,
+            "benefits": [
+                {
+                    "id": 230,
+                    "title": "Cyber Florist",
+                    "description": "<p>Кибер Флорист это международная сеть доставки цветов и подарков. Широкий ассортимент букетов и цветочных композиций из свежих цветов, фруктовых корзин, букетов из фруктов, букетов из конфет, подарочных продуктовых наборов и больших плюшевых медведей. Широкий ассортимент подарков и цветов на любой случай, с доставкой в любую точку мира.</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа на сайте <a href=\"https://cyber-florist.ru/\">Cyber Florist</a></p>",
+                    "website_url": "https://cyber-florist.ru/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/cyber_florist/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 2,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 10,
+                            "title": "Цветы",
+                            "order": 9,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 372,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/MzEKIaNQpPf0WaKI.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 140,
+                    "title": "Цветочный магазин \"Фабрика цветов\"",
+                    "description": null,
+                    "sale": "от 10% до 20%",
+                    "sale_conditions": "<p><strong>Для получения скидки 10% в магазине:</strong> необходимо нажать кнопку &quot;Активировать&quot; внизу экранаи показать появившееся сообщение менеджеру <a href=\"https://www.instagram.com/fabrika_cvetov/\">Фабрика цветов</a></p><p><strong>Для получения скидки 10% при оформлении заказа в</strong> <a href=\"https://www.instagram.com/fabrika_cvetov/\">instagram</a>: необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и сообщить полученный промокод менеджеру <a href=\"https://www.instagram.com/fabrika_cvetov/\" style=\"box-sizing: border-box; color: rgb(70, 127, 207); text-decoration: none; background-color: rgb(255, 255, 255); text-decoration-skip-ink: auto; user-select: auto; font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;\">Фабрика цветов</a>&nbsp;</p><p><strong>Скидка 10%</strong> - на частные заказы<br><strong>Скидка 15%</strong> - на корпоративные заказы</p>",
+                    "website_url": null,
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/fabrika_cvetov/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 2,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 10,
+                            "title": "Цветы",
+                            "order": 9,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 283,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/NOjAHbupUXRUteMd.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 82,
+                    "title": "Цветочный магазин ВГОСТИ",
+                    "description": "<p><a rel=\"noopener noreferrer\" style=\"margin: 0px; padding: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 400; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: ;\" open=\"\" target=\"_blank\" title=\"Главная страница цветочного салона ВГости\"></a><strong>Салон цветов &quot;ВГости&quot; предлагает Вам заглянуть &nbsp;в сказочный мир цветов, композиций и украшений</strong>.&nbsp;</p><p>Профессиональные флористы, получившие европейское флористическое образование, помогут Вам подобрать самые оригинальные цветочные букеты, создать индивидуальную атмосферу праздника, а также научат Вас с помощью цветов наполнять красками самые обычные дни.<span style='color: rgb(138, 131, 146); font-family: \"Open Sans\"; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>&nbsp; &nbsp;</span></p>",
+                    "sale": "до 25%",
+                    "sale_conditions": "<p><strong>Скидка 7%</strong> на все подарки</p><p><strong>Скидка 10%</strong> на все цветы и цветочную продукцию (при сумме заказа до 550р)</p><p><strong>Скидка 20%</strong> на все цветы и цветочную продукцию ( при сумме заказа более 550р)</p><p><strong>Скидка 25%</strong> на флористическое оформление мероприятий любой тематики.</p><p>Для получения скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру магазина <a href=\"https://vgosti.by\"><strong>ВГОСТИ</strong></a>.</p>",
+                    "website_url": "https://vgosti.by",
+                    "address": "ул. Гикало 7А",
+                    "longitude": 27.593113,
+                    "latitude": 53.913162,
+                    "instagram_url": "https://www.instagram.com/vgosti.by/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 1,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 10,
+                            "title": "Цветы",
+                            "order": 9,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 163,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/Jm2keX65N5T3le4N.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 81,
+                    "title": "Цветочный магазин ЦВЕТ БУКЕТ",
+                    "description": "<p>Студия цветов и декора с радостью поделится с вами волнующими запахами и невероятной красотой завораживающих букетов.</p>",
+                    "sale": "15%",
+                    "sale_conditions": "<p><strong>Для получения 15% скидки в магазине</strong> необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру <a href=\"https://cvetbuket.by\"><strong>ЦВЕТ БУКЕТ</strong></a>.&nbsp;</p><p><strong>Для получения 15% скидки на сайте или по телефону</strong>: <span style=\"color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">нажмите кнопку &quot;Активировать&quot; внизу экрана и</span> используйте полученный промокод при оформлении заказа.</p><p><br></p>",
+                    "website_url": "https://cvetbuket.by",
+                    "address": "пр. Победителей, 27 пом. 344",
+                    "longitude": 27.540042,
+                    "latitude": 53.911821,
+                    "instagram_url": "https://www.instagram.com/cvetbuket.by/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 5,
+                    "type": 2,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 10,
+                            "title": "Цветы",
+                            "order": 9,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 162,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/YKUX5gU5ScBZyKr9.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 78,
+                    "title": "Цветочный \"Love Myrr\"",
+                    "description": "<p>Кофе и цветы</p>",
+                    "sale": "10%",
+                    "sale_conditions": "<p>Для получения 10% скидки на букеты и цветочные композиции - необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру<a href=\"https://www.instagram.com/lovemyrr/\"><strong>&nbsp;Love Myrr</strong></a>.</p><p>При оформлении заказа через instagram - необходимо указать в direct messages аккаунта<a href=\"https://www.instagram.com/lovemyrr/\"><strong>&nbsp;Love Myrr</strong></a>, что Вы от <strong>Mediacube,&nbsp;</strong>а в момент получения заказа нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение курьеру.&nbsp;</p>",
+                    "website_url": null,
+                    "address": "ул. Ленина, 15",
+                    "longitude": 27.570958,
+                    "latitude": 53.915013,
+                    "instagram_url": "https://www.instagram.com/lovemyrr/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 1,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 10,
+                            "title": "Цветы",
+                            "order": 9,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 158,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/54fqIoybM2Ux0xCH.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Прочее",
+            "order": 11,
+            "benefits_count": 18,
+            "benefits": [
+                {
+                    "id": 292,
+                    "title": "Vpodarok.ru",
+                    "description": "<p>Vpodarok.ru &mdash; крупнейший агрегатор подарочных сертификатов в России ведущий свою деятельность с 2007 года.</p>",
+                    "sale": "5%",
+                    "sale_conditions": "<p>5% скидка на покупку<strong>&nbsp;Универсальной подарочной карты</strong> ( открывает возможность для обмена баллов на сертификаты торговых сетей, вывод средств на мобильный телефон или на банковскую карту )&nbsp;</p><p>1. Зайдите на сайт <a href=\"https://vpodarok.ru/\">Vpodarok.ru</a><br>2. Выберите номинал электронного сертификата<br><a data-saferedirecturl=\"https://www.google.com/url?q=https://vpodarok.ru/certificate/sertifikat_vpodarok&source=gmail&ust=1634809002416000&usg=AFQjCNFwYAUaLsU4LM20gwtEt0PvEXA-3g\" href=\"https://vpodarok.ru/certificate/sertifikat_vpodarok\" style=\"color: rgb(17, 85, 204); font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\" target=\"_blank\">https://vpodarok.ru/<wbr>certificate/sertifikat_<wbr>vpodarok</a><br>3. В корзине введите свои данные и промокод</p><p>Для получения промокода нажмите кнопку &quot;Активировать&quot; внизу экрана.</p>",
+                    "website_url": "https://vpodarok.ru/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/vpodarok.ru_foryou/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 5,
+                            "title": "Прочее",
+                            "order": 11,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 437,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/DJ5qmJmp4VoAAxcP.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 245,
+                    "title": "GOOD SIGN TATTOO",
+                    "description": "<p>&laquo;Good Sign Tattoo&raquo; &mdash; союз профессиональных татуировщиков. Каждый мастер студии создает уникальные работы в своем стиле.</p><p>Студии находятся по адресу:<br>ул. К. Маркса, 4<br>ул. П. Мстиславца, 2  </p>",
+                    "sale": "15%",
+                    "sale_conditions": "<p>Для получения 15% скидки сотруднику необходимо предъявить карту с лого и ланъярдом.</p>",
+                    "website_url": null,
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/good_sign_vostok/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 0,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 5,
+                            "title": "Прочее",
+                            "order": 11,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 383,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/I35TmkMGXm6Ga7F9.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 243,
+                    "title": "Bubble Dacha",
+                    "description": "<p>Прозрачная палатка в форме шара, оборудованная всем необходимым, где можно провести ночь под открытым небом. В шаре тепло и уютно в любое время года, температуру внутри можно регулировать с помощью теплопушек. Территория огорожена высоким забором, что обеспечивает полную приватность. Место подойдет тем, кто хочет испытать новые ощущения и вырваться из городской суеты, не покидая пределов Санкт-Петербурга.</p>",
+                    "sale": "25%",
+                    "sale_conditions": "<p>Для получения 25% скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение менеджеру <a href=\"https://www.instagram.com/bubble_dacha/?hl=ru\">Bubble Dacha</a></p>",
+                    "website_url": null,
+                    "address": "Пос. Парголово, ул. Пионерская, 16В",
+                    "longitude": 30.302108,
+                    "latitude": 60.085407,
+                    "instagram_url": "https://www.instagram.com/bubble_dacha/?hl=ru",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 7,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 5,
+                            "title": "Прочее",
+                            "order": 11,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 381,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/l4GuAJzMpEfyMSE7.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 203,
+                    "title": "LetyShops",
+                    "description": null,
+                    "sale": "двойной кэшбэк",
+                    "sale_conditions": "<p><strong>2xкэшбэк</strong> для тебя, твоих самых близких и родных!</p><p>Для получения двойного кэшбэка нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа на сайте&nbsp;<span style='color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, Roboto, \"Helvetica Neue\", Geneva, \"Noto Sans Armenian\", \"Noto Sans Bengali\", \"Noto Sans Cherokee\", \"Noto Sans Devanagari\", \"Noto Sans Ethiopic\", \"Noto Sans Georgian\", \"Noto Sans Hebrew\", \"Noto Sans Kannada\", \"Noto Sans Khmer\", \"Noto Sans Lao\", \"Noto Sans Osmanya\", \"Noto Sans Tamil\", \"Noto Sans Telugu\", \"Noto Sans Thai\", sans-serif, arial, Tahoma, verdana; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>&nbsp;<a href=\"https://letyshops.com/\">LetyShops</a></span></p><p>*промокод действует до 30.09.2021</p><p>p.s. кэшбэк - это круче чем скидки, купоны и промокоды, так как работает 24/7 круглый год</p>",
+                    "website_url": "https://letyshops.com/",
+                    "address": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "instagram_url": "https://www.instagram.com/letyshops/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 10,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 5,
+                            "title": "Прочее",
+                            "order": 11,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 352,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/YRXl8MbpcTAoDQSa.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 201,
+                    "title": "ORO.724",
+                    "description": null,
+                    "sale": "20%",
+                    "sale_conditions": "<p>Для получения 20% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа в <a href=\"https://www.instagram.com/oro.724_/\">ORO.724</a></p>",
+                    "website_url": null,
+                    "address": "ул. Комсомольская, 11",
+                    "longitude": 27.552452,
+                    "latitude": 53.902574,
+                    "instagram_url": "https://www.instagram.com/oro.724_/",
+                    "is_novelty": false,
+                    "is_popular": false,
+                    "uses_counter": 3,
+                    "type": 1,
+                    "max_uses": null,
+                    "categories": [
+                        {
+                            "id": 5,
+                            "title": "Прочее",
+                            "order": 11,
+                            "benefits_count": null
+                        }
+                    ],
+                    "gallery": [
+                        {
+                            "id": 350,
+                            "path": "https://benefits.mediacube.co/img/benefit/avatar/original/qnNTJqurZrM3wP01.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": "http://benefits.mediacube.co/api/benefits/by-category?page=1",
+        "last": "http://benefits.mediacube.co/api/benefits/by-category?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "path": "http://benefits.mediacube.co/api/benefits/by-category",
+        "per_page": 20,
+        "to": 11,
+        "total": 11
+    },
+    "novelty": [
+        {
+            "id": 342,
+            "title": "Питание DarkChef",
+            "description": "<p>Бесплатная доставка правильного питания в Минске. Представлены рационы питания под любые цели, каждый день новое меню.</p>",
+            "sale": "10%",
+            "sale_conditions": "<p>При заказе использовать код из приложения.</p>",
+            "website_url": null,
+            "address": "г. Минск",
+            "longitude": null,
+            "latitude": null,
+            "instagram_url": "https://www.instagram.com/darkchef.minsk/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 12,
+                    "title": "Доставки и Магазины",
+                    "order": 1,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 490,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/lHkUR0NpjrATGDtA.jpg"
+                }
+            ]
+        },
+        {
+            "id": 341,
+            "title": "Санаторий «Альфа Радон»",
+            "description": "<p>Медикал&amp;СПА Резорт &laquo;Альфа Радон&raquo; &mdash; многофункциональный комплекс с новым для Беларуси подходом к лечению. В комплексе вы найдете все необходимое для полноценного отдыха и оздоровления: благоприятные природные условия, спокойную расслабляющую атмосферу, профессиональное лечение в сочетании с комфортными условиями проживания и здоровым питанием. К вашим услугам развитая инфраструктура, качественное обслуживание с учетом использования новейших технологий, клиентоориентированный сервис, а также широкий спектр медицинских и СПА-услуг для полноценного отдыха и укрепления здоровья.</p>",
+            "sale": "10%",
+            "sale_conditions": "<p>10% от действующих цен на санаторно-курортные и оздоровительные путевки. При бронировании необходимо выслать фото пропуска с лого и ланьярдом/ скриншот активации в приложении</p>",
+            "website_url": "https://alfaradon.by/",
+            "address": "Гродненская область, Дятловский район, д.Боровики, 40 П",
+            "longitude": 53.516221,
+            "latitude": 25.501638,
+            "instagram_url": null,
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 6,
+                    "title": "Красота и Здоровье",
+                    "order": 5,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 489,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/eVj3WPfSMAKdHUWc.jpg"
+                }
+            ]
+        },
+        {
+            "id": 340,
+            "title": "META ARENA",
+            "description": "<p>Крупнейшая площадка для игр и киберспортивных мероприятий в Беларуси.</p>",
+            "sale": "5%",
+            "sale_conditions": "<p>При предъявлении промокода на кассе, вы получите META CARD, карточку программы лояльности Арены, сразу со 2 уровня из 5. Эта карточка будет давать возможность накапливать процент баллов на разных уровнях программы лояльности. Уровни зависят от накопленной суммы всех выплат, сделанных совместно с картой лояльности.</p><p>На 2 уровне будет доступно к накоплению до 5% бонусных баллов с каждого чека и он будет действовать на все в Арене, но оплачивать ими нельзя будет алкогольные, табачные изделия и автоматы с едой.</p>",
+            "website_url": "https://metaarena.by/",
+            "address": "улица Якуба Коласа, 37",
+            "longitude": 53.9259,
+            "latitude": 27.592706,
+            "instagram_url": "https://www.instagram.com/metaarenaminsk/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 2,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 9,
+                    "title": "Развлечения",
+                    "order": 4,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 488,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/K1XtNUh3KQcajwi3.jpg"
+                }
+            ]
+        },
+        {
+            "id": 339,
+            "title": "Кафе \"Лисья Нора\"",
+            "description": "<p>Ресторан &laquo;Лисья нора&raquo; &mdash; это уютный ресторан-клуб, за окнами которого красивое Слепянское водохранилище. Здесь большая и ухоженная территория, широкий выбор блюд, гостеприимный персонал и демократичные цены. Это хорошее место как для обычного ужина, так и для проведения масштабного торжественного мероприятия.</p>",
+            "sale": "5%-20%",
+            "sale_conditions": "<p>Обеденное меню 5%</p><p>Основное меню 20%</p>",
+            "website_url": null,
+            "address": "улица Калиновского 32",
+            "longitude": 53.941596,
+            "latitude": 27.640937,
+            "instagram_url": "https://www.instagram.com/lisya_nora_minsk/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 1,
+                    "title": "Кафе и Бары",
+                    "order": 0,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 487,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/WCx5wHs1LzfngV32.jpg"
+                }
+            ]
+        },
+        {
+            "id": 338,
+            "title": "BBJ Grill&Bar",
+            "description": "<p>Ресторан Американской кухни</p>",
+            "sale": "10%-15%",
+            "sale_conditions": "<p>Скидка на основное меню 15%</p><p>Скидка на обеденное меню 10%</p><p>Скидка не распространяется на акции, алкоголь и спецпредложения</p><p>Условия предоставления (перед заказом, в момент или перед расчётом) сотрудник показывает пропуск с лого и ланьярдом или активацию в приложении.</p>",
+            "website_url": "https://bbj.by/",
+            "address": "Братская улица, 6А",
+            "longitude": 53.870601,
+            "latitude": 27.551438,
+            "instagram_url": "https://www.instagram.com/bbj.grill.bar/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 1,
+                    "title": "Кафе и Бары",
+                    "order": 0,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 486,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/kJQBHQZ9EMp6jBm7.jpg"
+                }
+            ]
+        },
+        {
+            "id": 337,
+            "title": "BBJ Burger&Bar",
+            "description": "<p>Американский Бургер&amp;Бар</p>",
+            "sale": "10%-15%",
+            "sale_conditions": "<p>Скидка на основное меню 15%</p><p>Скидка на обеденное меню 10%</p><p>Скидка не распространяется на акции, алкоголь и спецпредложения</p><p>Условия предоставления (перед заказом, в момент или перед расчётом) сотрудник показывает пропуск с лого и ланьярдом или активацию в приложении.</p>",
+            "website_url": "https://bbj.by/",
+            "address": "улица Гурского, 43А",
+            "longitude": 53.877401,
+            "latitude": 27.49594,
+            "instagram_url": "https://www.instagram.com/bbj.bar/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 1,
+                    "title": "Кафе и Бары",
+                    "order": 0,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 485,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/hLhvBBzghsGb5n2o.jpg"
+                }
+            ]
+        },
+        {
+            "id": 336,
+            "title": "BierKeller",
+            "description": "<p>ПИВНОЙ ПОГРЕБОК &laquo;BIERKELLER&raquo;</p><p>Уютный гостеприимный уголок Германии в тихом центре Минска</p><p>БирКеллер порадует Вас традиционными деликатесами: от сырного ассорти и мясной тарелки до паштетов и смальцев. В меню горячих блюд много классической для Германии свинины: и томленная в пиве свиная грудка, и шницели, и, конечно же, рулька &laquo;Швайнхаксе&raquo;, с изумительной хрустящей корочкой!</p><p>В нашем погребке Вас всегда гостеприимно встретит девушка официантка в традиционном баварском платье &laquo;дирндл&raquo;, как и подобает настоящей хозяйке немецкого погребка. Именно здесь под задорные немецкие мотивы и йодльское тирольское пение все гости весело скачут, отмечая знаменитый немецкий праздник - мюнхенский фестиваль Октоберфест! &nbsp;</p><p>А если Вам захотелось взять с собой чуточку Германии, Вы всегда можете приобрести пивную атрибутику на память из сувенирного шкафа BierKeller!</p>",
+            "sale": "20%",
+            "sale_conditions": "<p>Скидка 20% на основное меню</p><p>*Скидка не распространяется на блюда обеденного меню, фестивальных и акционных предложений, алкогольные напитки, сигареты, сувенирную продукцию и не суммируется с другими скидками, действующими в ресторане.</p><p>**Согласно договорённости скидка действует на компанию не более 10 человек.</p>",
+            "website_url": "http://www.bier-keller.by/",
+            "address": "Войсковый переулок, 12",
+            "longitude": 53.907069,
+            "latitude": 27.5803,
+            "instagram_url": "https://www.instagram.com/bierkeller_minsk/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 1,
+                    "title": "Кафе и Бары",
+                    "order": 0,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 484,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/bjuVpHJtGuAVerod.jpg"
+                }
+            ]
+        },
+        {
+            "id": 335,
+            "title": "Кофейня coffeewanted.by",
+            "description": "<p>Мобильная кофейня &laquo;Coffee Wanted&raquo; &ndash; это кофейня на колёсах, которая эксплуатируется в формате кейтеринга и может приехать в любую точку нашей страны, предложив широкий ассортимент кофе, чая и холодных напитков.</p><p>Размер занимаемой торговой площади 2*2 м без посадочных мест. Мобильная кофейня работает автономно. Ассортимент из нескольких видов горячих напитков, приготовление в соответствии с классическими рецептами, опытный бариста &ndash; наш главный комплект. Одним из наших плюсов является то, что мы можем присутствовать на Вашем мероприятии в формате стационарной точки, где оборудованием торговой площади будет стойка.</p><p>Мы можем работать в любое время суток и в любом регионе нашей страны. На нашем счету несколько сотен отработанных мероприятий и больше тысячи преодолённых километров.</p>",
+            "sale": "10%",
+            "sale_conditions": "<p>10% на весь ассортимент (кроме алкоголя) для сотрудников Mediacube при предъявлении активации в приложении mc benefits</p>",
+            "website_url": "http://coffee-wanted.by/",
+            "address": "ул. Кальварийская 21; ул. Притыцкого 29",
+            "longitude": 53.906241,
+            "latitude": 27.527327,
+            "instagram_url": "https://www.instagram.com/coffeewanted.by/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 1,
+                    "title": "Кафе и Бары",
+                    "order": 0,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 483,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/DLNge8r27726ZH3v.jpg"
+                }
+            ]
+        },
+        {
+            "id": 334,
+            "title": "Массажная мастерская KUSHETKA",
+            "description": "<p>Избавим от боли, снимем стресс, скорректируем фигуру. Студия в центре Минска.</p>",
+            "sale": "20%",
+            "sale_conditions": "<p>Активация скидки 20% в приложении.</p>",
+            "website_url": null,
+            "address": "ул. Гикало, 1",
+            "longitude": 53.916546,
+            "latitude": 27.587065,
+            "instagram_url": "https://www.instagram.com/kushetka.massage/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 6,
+                    "title": "Красота и Здоровье",
+                    "order": 5,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 482,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/coUyQWMo9CWl67KC.jpg"
+                }
+            ]
+        },
+        {
+            "id": 333,
+            "title": "Кондитерская-кафе Myloverberry",
+            "description": "<p>Myloverberry - небольшая двухэтажная кондитерская-кафе с необычным &laquo;зефирным&raquo; дизайном. В заведении можно сфотографироваться на цветочных качелях или расписных в ручную фресках, выпить кофе с десертами собственного производства, а так же испробовать завтраки, которые подаются целый день. Компания завоевала звание номер 1 в Беларуси по изготовлению композиций из клубники в бельгийском шоколаде. Производят праздничные букеты, наборы в коробках, шляпные боксы, шоколадные плитки ручной работы.</p>",
+            "sale": "10%",
+            "sale_conditions": "<p>Для получения скидки в 10% необходимо представиться сотрудником Mediacube и предъявить активацию скидки в приложении</p>",
+            "website_url": null,
+            "address": "пр. Мира, 1",
+            "longitude": 53.869784,
+            "latitude": 27.549991,
+            "instagram_url": "https://www.instagram.com/myloverberry/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 1,
+                    "title": "Кафе и Бары",
+                    "order": 0,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 481,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/3SvUUjUNNAeJR37O.jpg"
+                }
+            ]
+        },
+        {
+            "id": 332,
+            "title": "Айдентал",
+            "description": "<p>Стоматологическая клиника Айдентал успешно работает в Минске с 2019 года. Мы уже достигли больших результатов и завоевали доверие и хорошую репутацию среди наших пациентов. На сегодняшний день у нас работает сильная команда прекрасных специалистов, которые способны профессионально и оперативно оказать стоматологическую помощь даже в самых сложных случаях. Мы ставим результат нашей работы во главе всего процесса, так как вся команда специалистов клиники заинтересована в непрерывном и динамичном развитии бизнеса. Наша клиника предоставляет полный спектр услуг в области стоматологии: протезирование, профессиональная гигиена, отбеливание, 3D рентген диагностика, косметическая реставрация зубов, пломбирование, лечение зубов, керамические и коронки из диоксида циркония, коронки на имплантах, изготовление условно-съемных протезов на имплантах. Всё стоматологическое оборудование в нашей клинике сделаны по последнему слову техники и отвечают всем требованиям современной стоматологии. Вы будете приятно удивлены качеством выполняемых нами работ, потому что мы используем только самые лучшие современные медикаменты.</p>",
+            "sale": "5%-50%",
+            "sale_conditions": "<p>Скидки распространяются на услуги:</p><p>&bull; протезирование и имплантация - скидка 5%;</p><p>&bull; лечение - скидка 10%;</p><p>&bull; снимки (в том числе 3D), удаление, отбеливание - скидка 20%;</p><p>&bull; чистка зубов у детей сотрудников до 10 лет - 50%.</p><p>К оплате принимаются наличные деньги и пластиковые карты. При оплате банковской картой скидка уменьшается на % комиссии банка. В случае большого объема (имплантация и протезирование одной или двух челюстей) может быть предоставлена дополнительная скидка.</p>",
+            "website_url": "https://ident.by/",
+            "address": "пр.Дзержинского, 78, пом.127",
+            "longitude": 53.870798,
+            "latitude": 27.49037,
+            "instagram_url": null,
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 6,
+                    "title": "Красота и Здоровье",
+                    "order": 5,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 480,
+                    "path": "https://benefits.mediacube.co/img/benefit/avatar/original/AKdeMag4Gw0MXfO8.jpg"
+                }
+            ]
+        },
+        {
+            "id": 331,
+            "title": "Pink Punk",
+            "description": "<p>Бренд одежды собственного производства. С доставкой и примеркой по Минску. Также доставка почтой по Миру.</p>",
+            "sale": "10%",
+            "sale_conditions": "<p>10% скидка на все вещи, кроме коллекционных NFT и одежды в которой NFC метки привязаны к интеллектуальным собственностям. Скидка распространяется на весь чек и не суммируется с другими скидками</p><p>Подтверждение скидки - скрин из приложения</p>",
+            "website_url": "https://www.instagram.com/pinkpunk_brand/",
+            "address": null,
+            "longitude": null,
+            "latitude": null,
+            "instagram_url": null,
+            "is_novelty": true,
+            "is_popular": true,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 4,
+                    "title": "Одежда и Обувь",
+                    "order": 6,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 479,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/VlPGSIWn80sUG95K.jpg"
+                }
+            ]
+        },
+        {
+            "id": 330,
+            "title": "Lerna",
+            "description": "<p>Онлайн-курсы от проверенных школ на одной платформе.</p><p>На платформе представлены дистанционные образовательные курсы от известных онлайн-школ для начинающих и практикующих специалистов по востребованным направлениям:</p><p>Программирование - более 100 курсов обучения в области информационных технологий: разработка ПО и мобильных приложений, программирование на языках Java, Python, JavaScript, C# и др., изучение принципов работы с данными по направлениям Data Science и Data Engineering, а также другие востребованные IT-специальности.</p><p>Дизайн - более 80 программ по направлениям от веб-дизайна, компьютерной графики, UX/UI, 3D-моделирования, иллюстрации до ландшафтного, интерьерного дизайна и фотографии.</p><p>Маркетинг - онлайн-обучение профессиям в области SMM, рекламы, бренд-менеджмента, маркетинговой аналитики, e-commerce и много другого.</p><p>Управление бизнесом, персоналом, командой - обучение менеджменту для новичков и экспертов.</p><p>Мультимедиа - образовательные программы в области режиссуры, продюсирования, монтажа, создания музыки и сонграйтинга.</p><p>Игры - обучающие программы от гейм-дизайна, разработки игр на Unity и Unreal Engine 4, моделирования игровых персонажей и локаций до шахмат и Академии &quot;Dota 2&quot;.</p>",
+            "sale": "до 45%",
+            "sale_conditions": "<p><strong>Каждый сотрудник при регистрации на платформе получает: </strong></p><p>- приветственный бонус при регистрации <strong>250 BY</strong><strong>N</strong> = 250 баллов (1 BYN = 1 балл);</p><p>- оплата баллами до 30% стоимости курса;</p><p><strong>Специальные корпоративные скидки на курсы: </strong></p><p>- на курсы Skillbox - скидка 45%&nbsp;</p><p>- на курсы Geekbrains - скидка 25%;</p><p>- кешбэк 30% по каждому купленному курсу.<br><strong><br>*ссылка приглашение на платформу ниже</strong></p>",
+            "website_url": "https://www.lerna.by/register/?company=f0b9c944-0ada-4cae-8315-ea3a191c90fb",
+            "address": null,
+            "longitude": null,
+            "latitude": null,
+            "instagram_url": null,
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 3,
+                    "title": "Образование и Хобби",
+                    "order": 2,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 478,
+                    "path": "https://benefits.mediacube.co/img/benefit/gallery/original/wcJWMrgFEzpMz4eD.jpg"
+                }
+            ]
+        },
+        {
+            "id": 329,
+            "title": "Barber Dima",
+            "description": null,
+            "sale": "25%",
+            "sale_conditions": "<p>Для получения <strong>25% скидки</strong> необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение сотруднику барбершопа <a href=\"https://kuhnya.delivery/kyiv/kuhnya\"></a> <a href=\"https://www.instagram.com/_dima.barber/\"><strong>Barber Dima</strong></a><br><br><strong>Скидка 25% на услуги:<br>Стрижка - 20р<br>Стрижка + борода - 30р</strong><br>(цены указаны с учетом скидки)<br><br>*необходимо заранее записаться через <a href=\"https://www.instagram.com/_dima.barber/\">instagram</a></p>",
+            "website_url": null,
+            "address": "Ул. Максима Богдановича 8",
+            "longitude": 27.56078,
+            "latitude": 53.912468,
+            "instagram_url": "https://www.instagram.com/_dima.barber/",
+            "is_novelty": true,
+            "is_popular": false,
+            "uses_counter": 0,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 6,
+                    "title": "Красота и Здоровье",
+                    "order": 5,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 477,
+                    "path": "https://benefits.mediacube.co/img/benefit/avatar/original/3cfz9WhuzzvJXzmi.jpg"
+                }
+            ]
+        },
+        {
+            "id": 193,
+            "title": "LIFESTYLE",
+            "description": null,
+            "sale": "до 30%",
+            "sale_conditions": "<p>Cкидка на все клубные карты в прайсе (кроме спец. предложений).<br>- 20% на 1 месяц безлимита<br>- 20% на 3 месяца <span style=\"color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">безлимита</span><br>- 30% на 6 месяцев <span style=\"color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">безлимита</span></p><p>Для получения скидки необходимо нажать кнопку &quot;Активировать&quot; внизу экрана и показать появившееся сообщение администратору <a href=\"https://fitness-club.by/\">LIFESTYLE</a></p>",
+            "website_url": "https://fitness-club.by/",
+            "address": null,
+            "longitude": null,
+            "latitude": null,
+            "instagram_url": "https://www.instagram.com/lifestyle.fg/",
+            "is_novelty": true,
+            "is_popular": true,
+            "uses_counter": 5,
+            "type": 1,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 2,
+                    "title": "Спорт и Отдых",
+                    "order": 3,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 341,
+                    "path": "https://benefits.mediacube.co/img/benefit/avatar/original/gYTnNgEkZlfFph93.jpg"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "title": "ÓDIN",
+            "description": "<p>&Oacute;DIN для тех, кто дышит музыкой.</p><p>Бесплатная доставка по миру.</p><p><em>Сделано другом</em></p>",
+            "sale": "20%",
+            "sale_conditions": "<p>Для получения 20% скидки нажмите кнопку &quot;Активировать&quot; внизу экрана и используйте полученный промокод при оформлении заказа на сайте <a href=\"https://od1nbrand.by\"><strong>ODIN</strong></a>.</p>",
+            "website_url": "https://od1nbrand.by",
+            "address": null,
+            "longitude": null,
+            "latitude": null,
+            "instagram_url": "https://www.instagram.com/odin.unsx/",
+            "is_novelty": true,
+            "is_popular": true,
+            "uses_counter": 18,
+            "type": 2,
+            "max_uses": null,
+            "categories": [
+                {
+                    "id": 4,
+                    "title": "Одежда и Обувь",
+                    "order": 6,
+                    "benefits_count": null
+                }
+            ],
+            "gallery": [
+                {
+                    "id": 225,
+                    "path": "https://benefits.mediacube.co/img/benefit/avatar/original/rnRTuC4IMi4brYK8.jpg"
+                }
+            ]
+        }
+    ]
+}

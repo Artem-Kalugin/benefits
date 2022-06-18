@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "paths": {
+        "#components": ["./components"],
+        "#screens": ["./screens"],
+        "#navigation": ["./navigation"],
+        "#api": ["./core/api"],
+        "#config": ["./core/config"],
+        "#utils": ["./core/utils"],
+        "#styles": ["./styles"],
+        "#assets": ["./snitchedData/assets"],
+      },
+    }
+  }

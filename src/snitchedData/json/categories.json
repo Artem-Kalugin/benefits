@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Кафе и Бары",
+            "order": 0,
+            "benefits_count": null
+        },
+        {
+            "id": 12,
+            "title": "Доставки и Магазины",
+            "order": 1,
+            "benefits_count": null
+        },
+        {
+            "id": 3,
+            "title": "Образование и Хобби",
+            "order": 2,
+            "benefits_count": null
+        },
+        {
+            "id": 2,
+            "title": "Спорт и Отдых",
+            "order": 3,
+            "benefits_count": null
+        },
+        {
+            "id": 9,
+            "title": "Развлечения",
+            "order": 4,
+            "benefits_count": null
+        },
+        {
+            "id": 6,
+            "title": "Красота и Здоровье",
+            "order": 5,
+            "benefits_count": null
+        },
+        {
+            "id": 4,
+            "title": "Одежда и Обувь",
+            "order": 6,
+            "benefits_count": null
+        },
+        {
+            "id": 8,
+            "title": "Всё для съёмок",
+            "order": 7,
+            "benefits_count": null
+        },
+        {
+            "id": 7,
+            "title": "Авто",
+            "order": 8,
+            "benefits_count": null
+        },
+        {
+            "id": 10,
+            "title": "Цветы",
+            "order": 9,
+            "benefits_count": null
+        },
+        {
+            "id": 5,
+            "title": "Прочее",
+            "order": 11,
+            "benefits_count": null
+        }
+    ]
+}
