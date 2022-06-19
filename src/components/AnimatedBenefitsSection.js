@@ -86,7 +86,7 @@ const AnimatedBenefitsSection = ({
       ListFooterComponent={
         ListFooterComponent ? (
           <Animated.View style={getAnimationConfig(data.length - 0.25)}>
-            {ListFooterComponent}
+            {ListFooterComponent()}
           </Animated.View>
         ) : null
       }

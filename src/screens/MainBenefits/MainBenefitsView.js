@@ -52,14 +52,16 @@ const MainBenefitsView = props => {
 
           <AnimatedBenefitsSection
             categoryId={item.id}
-            ListFooterComponent={
-              <TouchableOpacity onPress={() => props.goToCategory(item)}>
-                <LinkCard
-                  width={SECTIONED_BENEFITS_WIDTH}
-                  amount={item.benefits_count - item.benefits.length}
-                />
-              </TouchableOpacity>
-            }
+            ListFooterComponent={() => {
+              return item.benefits_count - item.benefits.length > 0 ? (
+                <TouchableOpacity onPress={() => props.goToCategory(item)}>
+                  <LinkCard
+                    width={SECTIONED_BENEFITS_WIDTH}
+                    amount={item.benefits_count - item.benefits.length}
+                  />
+                </TouchableOpacity>
+              ) : null;
+            }}
             itemWidth={SECTIONED_BENEFITS_WIDTH}
             data={item.benefits}
           />
