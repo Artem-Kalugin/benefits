@@ -6,6 +6,7 @@ import {
   FlatList,
   Animated,
   Platform,
+  Easing,
 } from 'react-native';
 import { useDispatch, useSelector } from 'react-redux';
 
@@ -33,7 +34,7 @@ const CategoriesNavbar = React.forwardRef(
     const insets = useSafeAreaInsets();
 
     const flatListRef = useRef();
-    const opacity = useRef(new Animated.Value(0)).current;
+    const translateY = useRef(new Animated.Value(-200)).current;
 
     const [activeItem, setActiveItem] = useState(-1);
     const [activeIndex, setActiveIndex] = useState(0);
@@ -84,12 +85,13 @@ const CategoriesNavbar = React.forwardRef(
     };
 
     useEffect(() => {
-      Animated.timing(opacity, {
-        toValue: navbarState.isVisible ? 1 : 0,
-        duration: navbarState.isVisible ? 500 : 200,
+      Animated.timing(translateY, {
+        toValue: navbarState.isVisible ? 0 : -200,
+        duration: navbarState.isVisible ? 400 : 400,
+        easing: Easing.inOut(Easing.ease),
         useNativeDriver: true,
       }).start();
-    }, [navbarState.isVisible, opacity]);
+    }, [navbarState.isVisible, translateY, navbarState.headerHeight]);
 
     useEffect(() => {
       if (ref) {
@@ -111,7 +113,7 @@ const CategoriesNavbar = React.forwardRef(
           styles.navbar,
           {
             paddingTop: insets.top + 16,
-            opacity: opacity,
+            transform: [{ translateY: translateY }],
           },
         ]}>
         <FlatList

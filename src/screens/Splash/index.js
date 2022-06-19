@@ -4,7 +4,7 @@ import SplashView from './SplashView';
 
 const SplashContainer = props => {
   const goNext = async () => {
-    props.navigation.navigate('MainBenefits', {
+    props.navigation.replace('MainBenefits', {
       animateTransparent: true,
     });
   };

@@ -3,6 +3,7 @@ import { Platform, UIManager } from 'react-native';
 import { Provider } from 'react-redux';
 
 import {
+  DefaultTheme,
   NavigationContainer,
   useNavigationContainerRef,
 } from '@react-navigation/native';
@@ -20,6 +21,14 @@ if (Platform.OS === 'android') {
   }
 }
 
+const MyTheme = {
+  ...DefaultTheme,
+  colors: {
+    ...DefaultTheme.colors,
+    background: 'transparent',
+  },
+};
+
 const App = () => {
   const navigationRef = useNavigationContainerRef();
   const routeNameRef = useRef();
@@ -28,6 +37,7 @@ const App = () => {
     <SafeAreaProvider>
       <Provider store={store}>
         <NavigationContainer
+          theme={MyTheme}
           ref={navigationRef}
           onReady={() => {
             routeNameRef.current = navigationRef.getCurrentRoute().name;

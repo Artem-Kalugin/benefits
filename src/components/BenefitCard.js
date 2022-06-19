@@ -41,13 +41,15 @@ const BenefitCard = ({
         <Skeleton visible={loading} style={styles.imageSkeleton} />
 
         <SharedElement id={`${categoryId}${item.gallery[0].id}`}>
-          <FastImage
-            onLoadStart={() => setLoading(true)}
-            onLoadEnd={() => setLoading(false)}
-            resizeMode={FastImage.resizeMode.cover}
-            style={styles.imageContainer}
-            source={{ uri: image }}
-          />
+          <View style={styles.imageSharedContainer}>
+            <FastImage
+              onLoadStart={() => setLoading(true)}
+              onLoadEnd={() => setLoading(false)}
+              resizeMode={FastImage.resizeMode.cover}
+              style={styles.imageContainer}
+              source={{ uri: image }}
+            />
+          </View>
         </SharedElement>
 
         <SharedElement id={`${categoryId}${item.id}_SALE_BADGE`}>
@@ -103,8 +105,11 @@ const getStyles = width =>
       top: 0,
       left: 0,
     },
-    imageContainer: {
+    imageSharedContainer: {
       borderRadius: 16,
+      overflow: 'hidden',
+    },
+    imageContainer: {
       width: '100%',
       aspectRatio: 1.7,
     },

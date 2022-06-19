@@ -32,11 +32,13 @@ const BenefitView = props => {
       </TouchableOpacity>
 
       <SharedElement id={'' + props.categoryId + props.gallery[0].id}>
-        <FastImage
-          resizeMode={FastImage.resizeMode.cover}
-          style={styles.image}
-          source={{ uri: props.gallery[0].path }}
-        />
+        <View style={styles.imageSharedContainer}>
+          <FastImage
+            resizeMode={FastImage.resizeMode.cover}
+            style={styles.image}
+            source={{ uri: props.gallery[0].path }}
+          />
+        </View>
       </SharedElement>
 
       <SharedElement style={styles.phoneOverlayContainer} id={'PHONE_OVERLAY'}>
@@ -62,6 +64,10 @@ const getStyles = insetsTop =>
     image: {
       width: screenWidth,
       aspectRatio: 1.7,
+    },
+    imageSharedContainer: {
+      borderRadius: 21,
+      overflow: 'hidden',
     },
     goBackButton: {
       width: 44,
@@ -90,7 +96,7 @@ const getStyles = insetsTop =>
     phoneOverlay: {
       width: '100%',
       height: '100%',
-      marginTop: -12,
+      marginTop: -32,
       backgroundColor: 'white',
       borderTopLeftRadius: 16,
       borderTopRightRadius: 16,

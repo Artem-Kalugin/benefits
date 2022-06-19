@@ -1,4 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
+import { useSelector } from 'react-redux';
 
 import BenefitsCategoryView from './BenefitsCategoryView';
 
@@ -7,6 +8,8 @@ const benefitsByCategory = require('../../snitchedData/json/benifitsByCategory.j
 const BenefitsCategoryContainer = props => {
   const category = props.route.params.category;
   const { title } = category;
+
+  const headerHeight = useSelector(store => store.navbar.headerHeight);
 
   const flatListRef = useRef();
 
@@ -26,6 +29,7 @@ const BenefitsCategoryContainer = props => {
 
   return (
     <BenefitsCategoryView
+      headerHeight={headerHeight}
       flatListRef={flatListRef}
       categoryId={category.id}
       items={items}

@@ -15,7 +15,7 @@ import colors, { screenHeight } from '#styles';
 const WrapperComponent = Platform.OS === 'android' ? Ripple : TouchableOpacity;
 
 const BenefitsCategoryView = props => {
-  const styles = getStyles();
+  const styles = getStyles(props.headerHeight);
 
   return (
     <View style={styles.container}>
@@ -67,11 +67,14 @@ const BenefitsCategoryView = props => {
   );
 };
 
-const getStyles = () =>
+const getStyles = headerHeight =>
   StyleSheet.create({
     container: {
       flex: 1,
       backgroundColor: 'white',
+    },
+    listContentStyle: {
+      paddingTop: headerHeight,
     },
     title: {
       paddingHorizontal: 20,

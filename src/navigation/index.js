@@ -14,7 +14,8 @@ const RootStack = () => {
     <MainStackNav.Navigator
       screenOptions={{
         headerShown: false,
-        cardStyle: { backgroundColor: '#FFFFFF' },
+        cardStyle: { backgroundColor: 'transparent' },
+        gestureEnabled: false,
       }}
       initialRouteName="Splash">
       <MainStackNav.Screen name="Splash" component={screens.Splash} />
@@ -24,9 +25,6 @@ const RootStack = () => {
         options={({ route: { params } }) => {
           return {
             animationTypeForReplace: params?.animationTypeForReplace,
-            cardStyle: {
-              paddingTop: headerHeight,
-            },
             cardStyleInterpolator: params?.animateTransparent
               ? ({ current: { progress } }) => {
                   return {
@@ -46,9 +44,6 @@ const RootStack = () => {
         options={({ route: { params } }) => {
           return {
             animationTypeForReplace: params.animationTypeForReplace,
-            cardStyle: {
-              paddingTop: headerHeight,
-            },
           };
         }}
         component={screens.BenefitsCategory}
@@ -57,7 +52,6 @@ const RootStack = () => {
       <MainStackNav.Screen
         name="Benefit"
         options={{
-          gestureEnabled: false,
           backgroundColor: 'transparent',
           detachPreviousScreen: false,
           cardStyleInterpolator: ({ current: { progress } }) => {

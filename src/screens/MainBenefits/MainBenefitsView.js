@@ -16,7 +16,7 @@ const benefitsByCategory = require('../../snitchedData/json/benifitsByCategory.j
 const flatListData = [{}, ...benefitsByCategory.data];
 
 const MainBenefitsView = props => {
-  const styles = getStyles();
+  const styles = getStyles(props.headerHeight);
 
   const renderItem = ({ item, index }) => {
     if (index === 0) {
@@ -71,6 +71,7 @@ const MainBenefitsView = props => {
   return (
     <View style={styles.container}>
       <FlatList
+        contentContainerStyle={styles.listContainer}
         maxToRenderPerBatch={3}
         updateCellsBatchingPeriod={50}
         initialNumToRender={Platform.OS === 'ios' ? 5 : 3}
@@ -86,11 +87,15 @@ const MainBenefitsView = props => {
   );
 };
 
-const getStyles = () =>
+const getStyles = headerHeight =>
   StyleSheet.create({
     container: {
       flex: 1,
       backgroundColor: 'white',
+    },
+    listContainer: {
+      paddingTop: headerHeight,
+      paddingBottom: 16,
     },
     sectionTitle: {
       paddingHorizontal: 20,

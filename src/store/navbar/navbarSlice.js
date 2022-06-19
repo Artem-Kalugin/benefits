@@ -5,7 +5,7 @@ const initialState = {
   prevRoute: null,
   isVisible: false,
   activeIndex: 0,
-  headerHeight: 0,
+  headerHeight: 200,
 };
 
 export const navbarSlice = createSlice({
