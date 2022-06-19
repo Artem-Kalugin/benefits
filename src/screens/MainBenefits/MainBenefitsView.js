@@ -1,54 +1,83 @@
-import colors, { screenHeight } from '#styles';
-import AnimatedBenefitsSection from 'components/AnimatedBenefitsSection';
-import CategoriesNavbar from 'components/CategoriesNavbar';
-import LinkCard from 'components/LinkCard';
-import Text from 'components/Text';
 import React from 'react';
-import { StyleSheet, View, ScrollView } from 'react-native';
+import { StyleSheet, View, TouchableOpacity, Platform } from 'react-native';
+
+import { FlatList } from 'react-native-gesture-handler';
 import { SharedElement } from 'react-navigation-shared-element';
 
-const benefits = require('../../snitchedData/json/benefits.json');
+import AnimatedBenefitsSection from '#components/AnimatedBenefitsSection';
+import LinkCard from '#components/LinkCard';
+import Text from '#components/Text';
+
+import { NEW_BENEFITS_WIDTH, SECTIONED_BENEFITS_WIDTH } from '#config';
+
+import colors, { screenHeight } from '#styles';
 
 const benefitsByCategory = require('../../snitchedData/json/benifitsByCategory.json');
+const flatListData = [{}, ...benefitsByCategory.data];
 
 const MainBenefitsView = props => {
   const styles = getStyles();
+
+  const renderItem = ({ item, index }) => {
+    if (index === 0) {
+      return (
+        <View>
+          <View style={styles.sectionTitle}>
+            <Text color={colors.dark} size={20}>
+              Новинки
+            </Text>
+          </View>
+
+          <AnimatedBenefitsSection
+            isCollapsed={true}
+            categoryId={-1}
+            itemWidth={NEW_BENEFITS_WIDTH}
+            data={benefitsByCategory.novelty}
+          />
+        </View>
+      );
+    } else {
+      return (
+        <View key={item.id}>
+          <View style={styles.sectionTitle}>
+            <Text color={colors.dark} size={20}>
+              {item.title}
+            </Text>
+            <TouchableOpacity onPress={() => props.goToCategory(item)}>
+              <Text color={colors.primary} size={16}>
+                Все
+              </Text>
+            </TouchableOpacity>
+          </View>
+
+          <AnimatedBenefitsSection
+            categoryId={item.id}
+            ListFooterComponent={
+              <TouchableOpacity onPress={() => props.goToCategory(item)}>
+                <LinkCard
+                  width={SECTIONED_BENEFITS_WIDTH}
+                  amount={item.benefits_count - item.benefits.length}
+                />
+              </TouchableOpacity>
+            }
+            itemWidth={SECTIONED_BENEFITS_WIDTH}
+            data={item.benefits}
+          />
+        </View>
+      );
+    }
+  };
+
   return (
     <View style={styles.container}>
-      <ScrollView showsVerticalScrollIndicator={false}>
-        <View style={styles.sectionTitle}>
-          <Text color={colors.dark} size={20}>
-            Новинки
-          </Text>
-        </View>
-        <AnimatedBenefitsSection
-          isCollapsed={true}
-          categoryId={-1}
-          data={benefits.data.slice(0, 20)}
-        />
-        {benefitsByCategory.data.map(el => {
-          return (
-            <View key={el.id}>
-              <View style={styles.sectionTitle}>
-                <Text color={colors.dark} size={20}>
-                  {el.title}
-                </Text>
-              </View>
-              <AnimatedBenefitsSection
-                categoryId={el.id}
-                ListFooterComponent={
-                  <LinkCard
-                    size={0.65}
-                    amount={el.benefits_count - el.benefits.length}
-                  />
-                }
-                itemSize={0.65}
-                data={el.benefits}
-              />
-            </View>
-          );
-        })}
-      </ScrollView>
+      <FlatList
+        maxToRenderPerBatch={3}
+        updateCellsBatchingPeriod={50}
+        initialNumToRender={Platform.OS === 'ios' ? 5 : 3}
+        data={flatListData}
+        showsVerticalScrollIndicator={false}
+        renderItem={renderItem}
+      />
 
       <SharedElement style={styles.underScreenContainer} id="PHONE_OVERLAY">
         <View style={styles.phoneOverlay} />
@@ -66,6 +95,9 @@ const getStyles = () =>
     sectionTitle: {
       paddingHorizontal: 20,
       marginTop: 12,
+      flexDirection: 'row',
+      alignItems: 'center',
+      justifyContent: 'space-between',
     },
     underScreenContainer: {
       position: 'absolute',

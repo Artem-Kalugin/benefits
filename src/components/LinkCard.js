@@ -1,10 +1,12 @@
-import colors, { screenWidth } from '#styles';
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
+
 import Text from './Text';
 
-const LinkCard = ({ amount = 58, size = 0.7 }) => {
-  const styles = getStyles(size);
+import colors, { screenWidth } from '#styles';
+
+const LinkCard = ({ amount = 58, width = screenWidth * 0.7 }) => {
+  const styles = getStyles(width);
 
   return (
     <View style={styles.wrapper}>
@@ -17,18 +19,18 @@ const LinkCard = ({ amount = 58, size = 0.7 }) => {
   );
 };
 
-const getStyles = size =>
+const getStyles = width =>
   StyleSheet.create({
     wrapper: {
-      width: size * screenWidth,
+      width: width,
       padding: 10,
     },
     container: {
       width: '100%',
-      aspectRatio: 1.7,
-      borderRadius: 16,
       alignItems: 'center',
       justifyContent: 'center',
+      aspectRatio: 1.7,
+      borderRadius: 16,
       borderColor: colors['primary-30'],
       borderWidth: 2,
       backgroundColor: 'white',

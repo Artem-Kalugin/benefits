@@ -1,22 +1,22 @@
-import { animateLayout } from '#utils';
-import React, { useState } from 'react';
+import React, { useContext } from 'react';
+
 import MainBenefitsView from './MainBenefitsView';
 
-const MainBenefitsContainer = props => {
-  const [activeItem, setActiveItem] = useState(-1);
+import NavbarContext from '#contexts/navbarContext';
 
-  const changeActiveItem = id => {
-    animateLayout();
-    setActiveItem(id);
+const MainBenefitsContainer = props => {
+  const navbarRef = useContext(NavbarContext);
+
+  const goToCategory = category => {
+    navbarRef.current.animateNavbar(category.id);
+
+    props.navigation.navigate('BenefitsCategory', {
+      navbarItemId: category.id,
+      category: category,
+    });
   };
 
-  return (
-    <MainBenefitsView
-      activeItem={activeItem}
-      setActiveItem={changeActiveItem}
-      {...props}
-    />
-  );
+  return <MainBenefitsView goToCategory={goToCategory} {...props} />;
 };
 
 export default MainBenefitsContainer;

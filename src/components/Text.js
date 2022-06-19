@@ -1,17 +1,18 @@
 import React from 'react';
 import { StyleSheet, Text as _Text } from 'react-native';
+
 import colors from '#styles';
 
 const Text = ({
-  text = 'default Text',
   size = 14,
   lineHeight = size + 6,
   color = colors['black-60'],
   children = children,
+  style = {},
 }) => {
   const styles = getStyles(size, lineHeight, color);
 
-  return <_Text style={styles.text}>{children}</_Text>;
+  return <_Text style={[styles.text, style]}>{children}</_Text>;
 };
 
 const getStyles = (size, lineHeight, color) =>

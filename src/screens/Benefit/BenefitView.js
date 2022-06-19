@@ -1,14 +1,16 @@
-import colors, { screenWidth } from '#styles';
 import React from 'react';
 import { View, StyleSheet, TouchableOpacity } from 'react-native';
+
 import FastImage from 'react-native-fast-image';
 import LinearGradient from 'react-native-linear-gradient';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { SharedElement } from 'react-navigation-shared-element';
 
+import colors, { screenWidth } from '#styles';
+
 const BenefitView = props => {
   const insets = useSafeAreaInsets();
-  const styles = getStyles(insets.top);
+  const styles = getStyles(insets.top, props.headerHeight);
 
   return (
     <View style={styles.container}>
@@ -17,16 +19,10 @@ const BenefitView = props => {
         colors={['#00000044', '#00000000']}
         pointerEvents="none"
       />
+
       <TouchableOpacity
         onPress={() => {
-          props.navigation.navigate('Benefits', {
-            sharedAnimate: true,
-            animate: true,
-            sharedItems: [
-              '' + props.categoryId + props.gallery[0].id,
-              'PHONE_OVERLAY',
-            ],
-          });
+          props.navigation.goBack();
         }}
         style={styles.goBackButton}>
         <FastImage
@@ -34,6 +30,7 @@ const BenefitView = props => {
           source={require('../../snitchedData/assets/images/chevron-back.png')}
         />
       </TouchableOpacity>
+
       <SharedElement id={'' + props.categoryId + props.gallery[0].id}>
         <FastImage
           resizeMode={FastImage.resizeMode.cover}
@@ -41,6 +38,7 @@ const BenefitView = props => {
           source={{ uri: props.gallery[0].path }}
         />
       </SharedElement>
+
       <SharedElement style={styles.phoneOverlayContainer} id={'PHONE_OVERLAY'}>
         <View style={styles.phoneOverlay} />
       </SharedElement>
@@ -51,6 +49,7 @@ const BenefitView = props => {
 const getStyles = insetsTop =>
   StyleSheet.create({
     container: {
+      borderColor: 'red',
       flex: 1,
     },
     gradient: {
@@ -61,7 +60,6 @@ const getStyles = insetsTop =>
       zIndex: 2,
     },
     image: {
-      // borderRadius: 16,
       width: screenWidth,
       aspectRatio: 1.7,
     },
@@ -92,7 +90,7 @@ const getStyles = insetsTop =>
     phoneOverlay: {
       width: '100%',
       height: '100%',
-      marginTop: -32,
+      marginTop: -12,
       backgroundColor: 'white',
       borderTopLeftRadius: 16,
       borderTopRightRadius: 16,

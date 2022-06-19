@@ -1,8 +1,18 @@
-import React from 'react';
-import AppMiddleware from './AppMiddleware';
-import { NavigationContainer } from '@react-navigation/native';
-import { SafeAreaProvider } from 'react-native-safe-area-context';
+import React, { useRef } from 'react';
 import { Platform, UIManager } from 'react-native';
+import { Provider } from 'react-redux';
+
+import {
+  NavigationContainer,
+  useNavigationContainerRef,
+} from '@react-navigation/native';
+
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+
+import AppMiddleware from './AppMiddleware';
+
+import store from '#store';
+import { changeRoute } from '#store/navbar/navbarSlice';
 
 if (Platform.OS === 'android') {
   if (UIManager.setLayoutAnimationEnabledExperimental) {
@@ -11,11 +21,30 @@ if (Platform.OS === 'android') {
 }
 
 const App = () => {
+  const navigationRef = useNavigationContainerRef();
+  const routeNameRef = useRef();
+
   return (
     <SafeAreaProvider>
-      <NavigationContainer>
-        <AppMiddleware />
-      </NavigationContainer>
+      <Provider store={store}>
+        <NavigationContainer
+          ref={navigationRef}
+          onReady={() => {
+            routeNameRef.current = navigationRef.getCurrentRoute().name;
+          }}
+          onStateChange={async () => {
+            const previousRouteName = routeNameRef.current;
+            const currentRouteName = navigationRef.getCurrentRoute().name;
+
+            if (previousRouteName !== currentRouteName) {
+              store.dispatch(changeRoute(currentRouteName));
+            }
+
+            routeNameRef.current = currentRouteName;
+          }}>
+          <AppMiddleware navigationRef={navigationRef} />
+        </NavigationContainer>
+      </Provider>
     </SafeAreaProvider>
   );
 };

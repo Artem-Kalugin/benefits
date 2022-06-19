@@ -53,10 +53,10 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
-		<string>asset_40370a7cad4d4503bdf3c88617a8a2ec.ttf</string>
-		<string>asset_6467404389190d3bc028d7d8ec085cea.ttf</string>
-		<string>asset_7c7b00b84624d311186b842c6656d315.ttf</string>
-		<string>asset_d6d1959a2baaeecfef92bf7140e73fb6.ttf</string>
+		<string>SFUIDisplay-Bold.ttf</string>
+		<string>SFUIDisplay-Medium.ttf</string>
+		<string>SFUIDisplay-Regular.ttf</string>
+		<string>SFUIDisplay-Semibold.ttf</string>
 	</array>
 </dict>
 </plist>

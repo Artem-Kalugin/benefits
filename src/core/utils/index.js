@@ -1,15 +1,5 @@
 import { LayoutAnimation } from 'react-native';
 
-export const requestDummy = data => {
-  const promise = new Promise((resolve, reject) => {
-    setTimeout(() => {
-      resolve(data);
-    }, 1000 * Math.random() * 2.5 + 500);
-  });
-
-  return promise;
-};
-
 export const animateLayout = (onAnimationEnd = () => {}) => {
   LayoutAnimation.configureNext(
     {

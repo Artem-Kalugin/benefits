@@ -1,24 +1,34 @@
-import colors, { screenWidth } from '#styles';
+import React, { useState } from 'react';
+import { View, StyleSheet, TouchableOpacity, Platform } from 'react-native';
+
 import { useNavigation } from '@react-navigation/native';
-import React from 'react';
-import { View, StyleSheet, TouchableOpacity } from 'react-native';
+
 import FastImage from 'react-native-fast-image';
 import { SharedElement } from 'react-navigation-shared-element';
+
+import Skeleton from './Skeleton';
 import Text from './Text';
+
+import colors, { screenWidth } from '#styles';
 
 const BenefitCard = ({
   title = null,
   image = null,
   sale = null,
-  size = 0.7,
+  width = screenWidth * 0.7,
   item = null,
   categoryId = -1,
+  style = {},
 }) => {
-  const styles = getStyles(size);
+  const styles = getStyles(width);
+
+  const [loading, setLoading] = useState(true);
+
   const navigation = useNavigation();
 
   return (
     <TouchableOpacity
+      disabled={loading}
       onPress={() => {
         navigation.navigate('Benefit', {
           ...item,
@@ -26,24 +36,30 @@ const BenefitCard = ({
           categoryId: categoryId,
         });
       }}
-      style={styles.container}>
-      <View style={styles.shadowView}>
+      style={[styles.container, style]}>
+      <View style={Platform.OS === 'ios' ? styles.shadowView : {}}>
+        <Skeleton visible={loading} style={styles.imageSkeleton} />
+
         <SharedElement id={`${categoryId}${item.gallery[0].id}`}>
           <FastImage
+            onLoadStart={() => setLoading(true)}
+            onLoadEnd={() => setLoading(false)}
             resizeMode={FastImage.resizeMode.cover}
             style={styles.imageContainer}
             source={{ uri: image }}
           />
         </SharedElement>
+
         <SharedElement id={`${categoryId}${item.id}_SALE_BADGE`}>
           <View style={styles.salesWrapper}>
             <Text color="white">{sale}</Text>
           </View>
         </SharedElement>
       </View>
+
       {title ? (
         <SharedElement id={`${categoryId}${item.id}_TITLE`}>
-          <Text color={colors.dark} size={16}>
+          <Text style={styles.benefitText} color={colors.dark} size={16}>
             {title}
           </Text>
         </SharedElement>
@@ -52,11 +68,11 @@ const BenefitCard = ({
   );
 };
 
-const getStyles = size =>
+const getStyles = width =>
   StyleSheet.create({
     container: {
+      width: width,
       padding: 10,
-      width: size * screenWidth,
     },
     salesWrapper: {
       alignSelf: 'flex-start',
@@ -75,13 +91,25 @@ const getStyles = size =>
       shadowRadius: 2.22,
       elevation: 3,
     },
+    benefitText: {
+      marginTop: 8,
+    },
+    imageSkeleton: {
+      width: '100%',
+      height: '100%',
+      borderRadius: 16,
+      position: 'absolute',
+      zIndex: 2,
+      top: 0,
+      left: 0,
+    },
     imageContainer: {
-      marginBottom: 8,
       borderRadius: 16,
       width: '100%',
       aspectRatio: 1.7,
     },
     shadowView: {
+      borderRadius: 17,
       shadowColor: '#000',
       shadowOffset: {
         width: 0,
@@ -93,4 +121,4 @@ const getStyles = size =>
     },
   });
 
-export default BenefitCard;
+export default React.memo(BenefitCard);

@@ -1,28 +1,59 @@
 import React from 'react';
+import { useSelector } from 'react-redux';
+
 import { createSharedElementStackNavigator } from 'react-navigation-shared-element';
+
 import screens from '#screens';
-import { Platform } from 'react-native';
-import BenefitsStack from './Benefits';
 
 const MainStackNav = createSharedElementStackNavigator();
 
-const fadeTransitionAnimationOptions = {
-  cardStyleInterpolator: ({ current: { progress } }) => {
-    return {
-      cardStyle: {
-        opacity: progress,
-      },
-    };
-  },
-};
-
 const RootStack = () => {
+  const headerHeight = useSelector(store => store.navbar.headerHeight);
+
   return (
     <MainStackNav.Navigator
-      screenOptions={{ headerShown: false }}
+      screenOptions={{
+        headerShown: false,
+        cardStyle: { backgroundColor: '#FFFFFF' },
+      }}
       initialRouteName="Splash">
       <MainStackNav.Screen name="Splash" component={screens.Splash} />
-      <MainStackNav.Screen name="Benefits" component={BenefitsStack} />
+
+      <MainStackNav.Screen
+        name="MainBenefits"
+        options={({ route: { params } }) => {
+          return {
+            animationTypeForReplace: params?.animationTypeForReplace,
+            cardStyle: {
+              paddingTop: headerHeight,
+            },
+            cardStyleInterpolator: params?.animateTransparent
+              ? ({ current: { progress } }) => {
+                  return {
+                    cardStyle: {
+                      opacity: progress,
+                    },
+                  };
+                }
+              : undefined,
+          };
+        }}
+        component={screens.MainBenefits}
+      />
+
+      <MainStackNav.Screen
+        name="BenefitsCategory"
+        options={({ route: { params } }) => {
+          return {
+            animationTypeForReplace: params.animationTypeForReplace,
+            cardStyle: {
+              paddingTop: headerHeight,
+            },
+          };
+        }}
+        component={screens.BenefitsCategory}
+      />
+
       <MainStackNav.Screen
         name="Benefit"
         options={{
@@ -37,7 +68,7 @@ const RootStack = () => {
             };
           },
         }}
-        sharedElements={(route, otherRoute, showing) => {
+        sharedElements={route => {
           return [
             `${route.params.categoryId}${route.params.gallery[0].id}`,
             'PHONE_OVERLAY',
