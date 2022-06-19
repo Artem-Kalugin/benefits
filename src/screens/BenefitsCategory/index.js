@@ -31,15 +31,20 @@ const BenefitsCategoryContainer = props => {
       benefitsByCategory.data.find(el => el.id === category.id)?.benefits,
     );
 
-    BackHandler.addEventListener('hardwareBackPress', function () {
-      props.navigation.replace('MainBenefits', {
-        animationTypeForReplace: 'pop',
-      });
+    const unsubscribe = BackHandler.addEventListener(
+      'hardwareBackPress',
+      function () {
+        props.navigation.replace('MainBenefits', {
+          animationTypeForReplace: 'pop',
+        });
 
-      navbarRef.current.animateNavbar(-1);
+        navbarRef.current.animateNavbar(-1);
 
-      return true;
-    });
+        return true;
+      },
+    );
+
+    return unsubscribe;
   }, [category.id]);
 
   return (
