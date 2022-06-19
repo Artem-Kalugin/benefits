@@ -14,7 +14,7 @@ const RootStack = () => {
     <MainStackNav.Navigator
       screenOptions={{
         headerShown: false,
-        cardStyle: { backgroundColor: 'transparent' },
+        cardStyle: { backgroundColor: '#FFFFFF' },
         gestureEnabled: false,
       }}
       initialRouteName="Splash">
